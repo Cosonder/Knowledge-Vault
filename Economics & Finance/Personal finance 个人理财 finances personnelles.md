@@ -41,4 +41,3 @@ Personal finance is the financial management that an individual or a family unit
 - [[Net worth 净资产 patrimoine|净资产]]
 - [[Savings account 储蓄账户 livret d'épargne|储蓄账户]]
 - [[Financial independence 财务自由 indépendance financière|财务自由]]
-- [[Finance learning path 金融学习路径 parcours d'apprentissage|金融学习路径]]

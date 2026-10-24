@@ -64,3 +64,10 @@ In such constructions, the verb agrees with *il* (3rd person singular): *Il est 
 - Both languages require an explicit subject (unlike Spanish or Italian).
 - French clitic subject pronouns cannot be stressed or separated from the verb; for emphasis, a tonic pronoun is added: ***Moi**, je* pense que…
 - French inverts the subject more freely (after adverbs, in relative clauses).
+
+# Related
+
+- [[Object 宾语 objet|object]]
+- [[Predicative complement 表语 attribut|attribut]] (attribut du sujet)
+- [[Agent complement 施事补语 complément d'agent|complément d'agent]]
+- [[Personal pronoun 人称代词 pronom personnel|personal pronoun]]

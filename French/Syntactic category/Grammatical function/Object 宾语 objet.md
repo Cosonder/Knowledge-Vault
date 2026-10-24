@@ -92,3 +92,11 @@ English can passivize the indirect object (*He was given a book*); French cannot
 
 > **On lui** a donné un livre.
 > -> He was given a book.
+
+# Related
+
+- [[Subject 主语 sujet|subject]]
+- [[Predicative complement 表语 attribut|attribut]] (attribut du COD)
+- [[Adverbial 状语 complément circonstanciel|complément circonstanciel]]
+- [[Agent complement 施事补语 complément d'agent|complément d'agent]]
+- [[Personal pronoun 人称代词 pronom personnel|personal pronoun]]

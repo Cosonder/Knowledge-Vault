@@ -7,7 +7,7 @@ A personal [Obsidian](https://obsidian.md) vault of trilingual notes. Most notes
 
 | Folder | Notes | Start here | Covers |
 | --- | --- | --- | --- |
-| `French/` | 70 | [[French 法语 français]] | Grammar (tenses, moods, agreement, pronouns, sentence structures), phonology (liaison, élision, enchaînement, hiatus), general linguistics concepts, and vocabulary lists (cognates, themed word tables, Harry Potter ch. 1) |
+| `French/` | 83 | [[French 法语 français]] | Grammar (tenses and moods, parts of speech, grammatical functions, agreement, pronouns, sentence structures), phonology (liaison, élision, enchaînement, hiatus), general linguistics concepts, and vocabulary lists (cognates, themed word tables, Harry Potter ch. 1) |
 | `Economics & Finance/` | 73 | [[Finance 金融 finance]], [[Personal finance 个人理财 finances personnelles]] | Time value of money and interest, markets and exchanges (incl. China A/B/H shares), stocks, bonds, funds and ETFs, derivatives, risk and portfolio theory, central banking, and personal finance / FIRE |
 | `Mathematics/` | 9 | [[Combinatorics 组合数学 combinatoire]] | Coxeter systems, BN-pairs, buildings, quotient root systems, simplicial complexes and sets, quivers (with potential, Ginzburg dg algebras); metamathematics |
 | `Philosophy/` | 5 | [[Adventure & Maintenance 冒险与日常 aventure et entretien]] | Stoicism, Cynicism, Buddhism and Chan (本自具足), adventure vs. everyday maintenance |

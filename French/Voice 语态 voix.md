@@ -86,3 +86,4 @@ French uses the passive less often than English. Common alternatives:
 - [[Intransitive verbs 不及物动词 verbes intransitifs|intransitive verbs]]
 - [[Agreement 配合 accord|agreement]]
 - [[Mood 语气 mode|mood]], [[Tense 时态 temps|tense]], [[Aspect 体 aspect|aspect]]
+- [[Agent complement 施事补语 complément d'agent|complément d'agent]]

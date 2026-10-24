@@ -18,7 +18,7 @@ Hub page for the French area. The notes are organized by linguistic category. Mo
 - [[Conjugation 变位 conjugaison|conjugation]]: overview of how verbs inflect
 - [[Tense 时态 temps|tense]] · [[Mood 语气 mode|mood]] · [[Aspect 体 aspect|aspect]] · [[Voice 语态 voix|voice]] · [[Person 人称 personne|person]]
 - Indicative tenses: [[Present indicative 直陈式现在时 indicatif présent|présent]] · [[Imperfect 未完成过去时 imparfait|imparfait]] · [[Perfect 复合过去时 passé composé|passé composé]] · [[Pluperfect 愈过去时 plus-que-parfait|plus-que-parfait]] · [[Past historic 简单过去时 passé simple|passé simple]] · [[Past anterior 先过去时 passé antérieur|passé antérieur]] · [[Double compound past 超复合过去时 passé surcomposé|passé surcomposé]] · [[Simple future 简单将来时 futur simple|futur simple]] · [[Future perfect 先将来时 futur antérieur|futur antérieur]]
-- Other moods: [[Present subjunctive 虚拟式现在时 subjonctif présent|subjonctif présent]] · [[Present conditional 条件式现在时 conditionnel présent|conditionnel présent]] · [[Imperative 命令式 impératif|impératif]]
+- Other moods: [[Present subjunctive 虚拟式现在时 subjonctif présent|subjonctif présent]] · [[Present conditional 条件式现在时 conditionnel présent|conditionnel présent]] · [[Imperative 命令式 impératif|impératif]] · [[Past subjunctive 虚拟式过去时 subjonctif passé|subjonctif passé]] · [[Past conditional 条件式过去时 conditionnel passé|conditionnel passé]]
 - Non-finite forms: [[Infinitive 不定式 infinitif|infinitif]] · [[Present participle 现在分词 participe présent|participe présent]] · [[Past participle 过去分词 participe passé|participe passé]]
 - Verb classes: [[Pronominal verb 代动词 verbe pronominal|pronominal verbs]] · [[Intransitive verbs 不及物动词 verbes intransitifs|intransitive verbs]]
 
@@ -26,7 +26,7 @@ Hub page for the French area. The notes are organized by linguistic category. Mo
 
 - Parts of speech: [[Adjective 形容词 adjectif|adjective]] · [[Adverb 副词 adverbe|adverb]] · [[Preposition 介词 préposition|preposition]] · [[Determiner 限定词 déterminant|determiner]]
 - Nouns: [[Gender of nouns 名词的性 genre des noms|gender]] · [[Number of nouns 名词的数 nombre des noms|number]]
-- Pronouns: [[Pronoun 代词 pronom|pronoun]] · [[Personal pronoun 人称代词 pronom personnel|personal pronoun]] · [[Relative pronoun 关系代词 pronom relatif|relative pronoun]]
+- Pronouns: [[Pronoun 代词 pronom|pronoun]] · [[Personal pronoun 人称代词 pronom personnel|personal pronoun]] · [[Demonstrative pronoun 指示代词 pronom démonstratif|demonstrative pronoun]] · [[Possessive pronoun 物主代词 pronom possessif|possessive pronoun]] · [[Interrogative pronoun 疑问代词 pronom interrogatif|interrogative pronoun]] · [[Relative pronoun 关系代词 pronom relatif|relative pronoun]]
 - Conjunctions: [[Coordinate conjunction 并列连词 conjonction de coordination|coordinating]] · [[Subordinate conjunction 从属连词 conjonction de subordination|subordinating]]
 - [[Indefinite words 泛指词 mots indéfinis|indefinite words]] · [[plus 更多 plus|plus]] · [[Agreement 配合 accord|agreement]]
 

@@ -133,3 +133,4 @@ The adjectival form of the verb.
 - [[Infinitive 不定式 infinitif|infinitive]], [[Present participle 现在分词 participe présent|present participle]], [[Past participle 过去分词 participe passé|past participle]]
 - [[Subordinate conjunction 从属连词 conjonction de subordination|subordinate conjunction]]
 - [[Present subjunctive 虚拟式现在时 subjonctif présent|subjonctif présent]], [[Present conditional 条件式现在时 conditionnel présent|conditionnel présent]], [[Imperative 命令式 impératif|impératif]]
+- [[Past subjunctive 虚拟式过去时 subjonctif passé|subjonctif passé]], [[Past conditional 条件式过去时 conditionnel passé|conditionnel passé]]

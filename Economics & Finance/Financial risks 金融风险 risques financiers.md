@@ -37,5 +37,5 @@ aliases:
 # Related
 - [[Risk management 风险管理 gestion des risques|Risk management 风险管理]]
 - [[Hedge 对冲 couverture|Hedge 对冲]]
-- [[Leverage 杠杆]]：放大各类风险敞口。
+- [[Leverage 杠杆 effet de levier]]：放大各类风险敞口。
 - [[Derivative 金融衍生品 produit dérivé|Derivative 金融衍生品]]

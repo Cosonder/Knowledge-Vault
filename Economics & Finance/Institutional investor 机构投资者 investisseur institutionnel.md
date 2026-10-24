@@ -20,14 +20,14 @@ aliases:
 - **资金规模大**：在许多发达市场，机构投资者持有上市公司股票的大部分份额，对价格形成和公司治理（如股东投票、积极股东主义 shareholder activism）有重要影响。
 - **专业化**：有专门的研究团队、风控体系和投资流程。
 - **负债驱动**：投资目标与其负债结构相关，如养老金需匹配长期给付，因而偏好长期资产（见 [[Infrastructure 基础设施 infrastructure|Infrastructure 基础设施]]、[[Real estate 不动产 immobilier|Real estate 不动产]]）。
-- **监管更严**：受信义义务（fiduciary duty）约束，投资范围和[[Leverage 杠杆|杠杆]]常受限制；但同时可作为合格投资者参与散户无法进入的市场（如中国的 QFII 制度、新股网下配售）。
+- **监管更严**：受信义义务（fiduciary duty）约束，投资范围和[[Leverage 杠杆 effet de levier|杠杆]]常受限制；但同时可作为合格投资者参与散户无法进入的市场（如中国的 QFII 制度、新股网下配售）。
 - **交易成本更低**：大宗交易可获得更低佣金和更优执行。
 
 # Example
 一家管理 1000 亿元资产的养老基金，按"60/40"配置，即 600 亿元投向[[Stock 股票 action|股票]]、400 亿元投向债券；若其持有某上市公司 5% 以上股份，在多数市场须履行举牌披露义务。
 
 # Related
-- [[Investor 投资者]]
-- [[Fund 基金]]
+- [[Investor 投资者 investisseur]]
+- [[Fund 基金 fonds]]
 - [[Portfolio 投资组合 portefeuille|Portfolio 投资组合]]
-- [[Stock market 股票市场]]
+- [[Stock market 股票市场 marché boursier]]

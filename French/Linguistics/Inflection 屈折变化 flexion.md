@@ -30,7 +30,7 @@ Inflectional forms are partly driven by [[Agreement 配合 accord|agreement]]: t
 
 * **Suffixation** (most common): *fin-**ir*** → *fin-**issons***
 * **Stem alternation**（词干交替）: *je **veu**x / nous **voul**ons*, *je **vais** / nous **all**ons / j'**ir**ai* (suppletion 异干互补)
-* **Auxiliary + participle** (periphrastic): *j'**ai mangé***, *je **suis venu*** — see [[Perfect 复合过去时 Passé composé|passé composé]]
+* **Auxiliary + participle** (periphrastic): *j'**ai mangé***, *je **suis venu*** — see [[Perfect 复合过去时 passé composé|passé composé]]
 
 # Spoken vs written French
 

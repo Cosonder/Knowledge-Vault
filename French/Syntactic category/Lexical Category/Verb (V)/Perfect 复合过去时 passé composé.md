@@ -8,7 +8,7 @@ aliases:
 
 # Formation
 
-the perfect = avoir/être + [[Past participle 过去分词 Participe passé|past participle]]
+the perfect = avoir/être + [[Past participle 过去分词 participe passé|past participle]]
 
 ## Auxiliary
 ### Verbs with "être" as auxiliary

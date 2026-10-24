@@ -5,7 +5,7 @@ aliases:
 ---
 # Definition
 
-In [[Finance 金融 finance|finance]], an investment strategy is a set of rules, behaviors or procedures, designed to guide an [[Investor 投资者|investor]]'s selection of an investment [[Portfolio 投资组合 portefeuille|portfolio]].
+In [[Finance 金融 finance|finance]], an investment strategy is a set of rules, behaviors or procedures, designed to guide an [[Investor 投资者 investisseur|investor]]'s selection of an investment [[Portfolio 投资组合 portefeuille|portfolio]].
 
 
 # List of strategies

@@ -12,7 +12,7 @@ The infinitive (*l'infinitif*) is the non-finite, uninflected form of the verb: 
 | form                      | construction                         | example                         |
 | ------------------------- | ------------------------------------ | ------------------------------- |
 | present infinitive        | simple form                          | parler, finir, partir           |
-| past infinitive           | *avoir / être* + [[Past participle 过去分词 Participe passé\|past participle]] | avoir parlé, être parti(e)(s) |
+| past infinitive           | *avoir / être* + [[Past participle 过去分词 participe passé\|past participle]] | avoir parlé, être parti(e)(s) |
 | pronominal                | *se* + infinitive (pronoun agrees with the subject) | Je vais **me** coucher.   |
 | passive                   | *être* + past participle             | être aimé                       |
 
@@ -65,7 +65,7 @@ Exceptions: *faire, laisser* and verbs of perception (*voir, entendre*) take the
 
 ## After prepositions
 
-French uses the infinitive after all prepositions except *en* (which takes the gérondif, see [[Present participle 现在分词 Participe présent|present participle]]). 英语此处常用 *-ing*。
+French uses the infinitive after all prepositions except *en* (which takes the gérondif, see [[Present participle 现在分词 participe présent|present participle]]). 英语此处常用 *-ing*。
 
 > **sans** dire un mot -> without saying a word
 > **pour** apprendre le français -> (in order) to learn French

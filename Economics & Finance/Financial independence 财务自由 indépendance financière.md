@@ -83,7 +83,7 @@ $$W^* = \frac{48\,000}{0.04} = 120\text{ 万 €}, \qquad \frac{120\text{ 万}}{
 - [[Budget 预算 budget|预算]]
 - [[Personal finance 个人理财 finances personnelles|个人理财]]
 - [[Compound interest 复利 intérêts composés|复利]]
-- [[Dollar cost averaging 平均成本法 (定投)|定投]]
+- [[Dollar cost averaging 平均成本法 investissement programmé|定投]]
 - [[Index fund 指数基金 fonds indiciel|指数基金]]
 - [[Investment fees 投资费用 frais|投资费用]]
 

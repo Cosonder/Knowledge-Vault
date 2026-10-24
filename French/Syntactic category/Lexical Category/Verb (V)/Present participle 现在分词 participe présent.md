@@ -10,7 +10,7 @@ The present participle (*le participe présent*) is a non-finite form ending in 
 
 # Formation
 
-stem = the 1st person plural of the [[Present indicative 直陈式现在时 indicatif présent|present indicative]] - "-ons", + **-ant** (same stem as the [[Imperfect 未完成过去时 Imparfait|imperfect]]).
+stem = the 1st person plural of the [[Present indicative 直陈式现在时 indicatif présent|present indicative]] - "-ons", + **-ant** (same stem as the [[Imperfect 未完成过去时 imparfait|imperfect]]).
 
 > nous parl**ons** → parl**ant**
 > nous finiss**ons** → finiss**ant**
@@ -26,7 +26,7 @@ Three exceptions:
 | avoir      | **ayant**          |
 | savoir     | **sachant**        |
 
-Compound form (anteriority): *ayant / étant* + [[Past participle 过去分词 Participe passé|past participle]]: *ayant fini, étant parti(e)(s), s'étant levé(e)(s)*.
+Compound form (anteriority): *ayant / étant* + [[Past participle 过去分词 participe passé|past participle]]: *ayant fini, étant parti(e)(s), s'étant levé(e)(s)*.
 
 Pronominal verbs keep the reflexive pronoun agreeing with the subject: *en **me** levant, en **nous** promenant*.
 

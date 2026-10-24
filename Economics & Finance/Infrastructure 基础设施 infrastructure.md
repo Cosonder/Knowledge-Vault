@@ -30,5 +30,5 @@ aliases:
 # Related
 - [[Real estate 不动产 immobilier|Real estate 不动产]]
 - [[Tangible asset 有形资产 actif corporel|Tangible asset]]
-- [[Investment 投资]]
-- [[Fund 基金]]
+- [[Investment 投资 investissement]]
+- [[Fund 基金 fonds]]

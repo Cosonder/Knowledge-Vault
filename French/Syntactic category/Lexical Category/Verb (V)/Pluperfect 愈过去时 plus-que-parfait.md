@@ -4,7 +4,7 @@ aliases:
   - plus-que-parfait
 ---
 # Introduction
-The pluperfect is the compound form of the [[Imperfect 未完成过去时 Imparfait|imperfect]].
+The pluperfect is the compound form of the [[Imperfect 未完成过去时 imparfait|imperfect]].
 
 It expresses an action **completed before another past moment** (“past in the past”). 相对于另一个过去的时间点，它表示“更早已经完成”。
 
@@ -12,7 +12,7 @@ It expresses an action **completed before another past moment** (“past in the 
 
 the pluperfect = the imperfect of *être/avoir* + the past participle
 
-The choice of auxiliary and the rules of [[Agreement 配合 accord|agreement]] are the same as for the [[Perfect 复合过去时 Passé composé|passé composé]]; see also [[Past participle 过去分词 Participe passé|past participle]] and [[Pronominal verb 代动词 verbe pronominal|pronominal verb]] (always *être*).
+The choice of auxiliary and the rules of [[Agreement 配合 accord|agreement]] are the same as for the [[Perfect 复合过去时 passé composé|passé composé]]; see also [[Past participle 过去分词 participe passé|past participle]] and [[Pronominal verb 代动词 verbe pronominal|pronominal verb]] (always *être*).
 
 |              | parler (avoir) | finir (avoir) | aller (être)      | se lever (être)       |
 | ------------ | -------------- | ------------- | ----------------- | --------------------- |

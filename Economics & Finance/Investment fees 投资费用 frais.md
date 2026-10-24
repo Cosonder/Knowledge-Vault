@@ -16,7 +16,7 @@ tags: [finance, learning]
 
 **投资费用**（investment fees, *frais*）是投资者为购买、持有和卖出金融产品向中介支付的全部成本。主要类型：
 
-- **管理费 / 总费用率**（management fee, TER = total expense ratio, *frais de gestion*, *frais courants*）：按资产规模每年收取的比例，从[[Fund 基金|基金]]净值中直接扣除，投资者不会收到账单；
+- **管理费 / 总费用率**（management fee, TER = total expense ratio, *frais de gestion*, *frais courants*）：按资产规模每年收取的比例，从[[Fund 基金 fonds|基金]]净值中直接扣除，投资者不会收到账单；
 - **申购费 / 入场费**（entry fee, *frais d'entrée* / *droits d'entrée*）：买入时一次性扣除，赎回时还可能有 *frais de sortie*；
 - **交易佣金**（brokerage commission, *frais de courtage*）：每笔买卖支付给券商；
 - **账户费**（*droits de garde*, *frais de tenue de compte*）：托管或账户维护费用；

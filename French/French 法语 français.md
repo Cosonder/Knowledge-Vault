@@ -17,8 +17,8 @@ Hub page for the French area. The notes are organized by linguistic category. Mo
 
 - [[Conjugation 变位 conjugaison|conjugation]]: overview of how verbs inflect
 - [[Tense 时态 temps|tense]] · [[Mood 语气 mode|mood]] · [[Aspect 体 aspect|aspect]] · [[Voice 语态 voix|voice]] · [[Person 人称 personne|person]]
-- Indicative tenses: [[Present indicative 直陈式现在时 indicatif présent|présent]] · [[Imperfect 未完成过去时 Imparfait|imparfait]] · [[Perfect 复合过去时 Passé composé|passé composé]] · [[Pluperfect 愈过去时 plus-que-parfait|plus-que-parfait]] · [[Past historic 简单过去时 passé simple|passé simple]] · [[Past anterior 先过去时 passé antérieur|passé antérieur]] · [[Double compound past 超复合过去时 passé surcomposé|passé surcomposé]] · [[Simple future 简单将来时 futur simple|futur simple]] · [[Future perfect 先将来时 futur antérieur|futur antérieur]]
-- Non-finite forms: [[Infinitive 不定式 Infinitif|infinitif]] · [[Present participle 现在分词 Participe présent|participe présent]] · [[Past participle 过去分词 Participe passé|participe passé]]
+- Indicative tenses: [[Present indicative 直陈式现在时 indicatif présent|présent]] · [[Imperfect 未完成过去时 imparfait|imparfait]] · [[Perfect 复合过去时 passé composé|passé composé]] · [[Pluperfect 愈过去时 plus-que-parfait|plus-que-parfait]] · [[Past historic 简单过去时 passé simple|passé simple]] · [[Past anterior 先过去时 passé antérieur|passé antérieur]] · [[Double compound past 超复合过去时 passé surcomposé|passé surcomposé]] · [[Simple future 简单将来时 futur simple|futur simple]] · [[Future perfect 先将来时 futur antérieur|futur antérieur]]
+- Non-finite forms: [[Infinitive 不定式 infinitif|infinitif]] · [[Present participle 现在分词 participe présent|participe présent]] · [[Past participle 过去分词 participe passé|participe passé]]
 - Verb classes: [[Pronominal verb 代动词 verbe pronominal|pronominal verbs]] · [[Intransitive verbs 不及物动词 verbes intransitifs|intransitive verbs]]
 
 # Words and agreement

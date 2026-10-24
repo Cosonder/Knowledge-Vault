@@ -15,7 +15,7 @@ In corporate finance, a **listing** refers to the company's shares being on the 
 - **直接上市**（direct listing）：不发行新股，现有股东的股份直接挂牌交易。
 - **借壳上市**（reverse merger）：通过收购已上市公司实现上市。
 - **发行制度**：各市场有不同的上市条件（盈利、市值、股东人数等）。中国 A 股已于 2023 年全面实行**注册制**（registration-based system），此前主板长期为核准制。
-- **两地 / 多地上市**（dual listing）：如在香港上市的 [[H-share H股 action H|H股]]，以及同时发行 [[A-share A股|A股]] 和 [[B-share B股|B股]] 的公司。
+- **两地 / 多地上市**（dual listing）：如在香港上市的 [[H-share H股 action H|H股]]，以及同时发行 [[A-share A股 action A|A股]] 和 [[B-share B股 action B|B股]] 的公司。
 - **退市**（delisting）：公司不再满足上市要求或主动私有化后终止挂牌。
 
 # Pros and cons
@@ -29,6 +29,6 @@ In corporate finance, a **listing** refers to the company's shares being on the 
 
 # Related
 
-- [[Stock market 股票市场|股票市场]]
+- [[Stock market 股票市场 marché boursier|股票市场]]
 - [[Securities market 证券市场 marché des valeurs mobilières|证券市场]]
 - [[NASDAQ 纳斯达克|纳斯达克]]

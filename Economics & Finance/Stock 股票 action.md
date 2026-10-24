@@ -18,7 +18,7 @@ aliases:
 
 # Classification
 - **普通股**（common stock / ordinary shares）与**优先股**（preferred stock，法 action de préférence）：后者通常有固定股息、优先分配，但一般无投票权。
-- 按上市地与币种（中国）：[[A-share A股|A 股]]、[[B-share B股|B 股]]、[[H-share H股 action H|H 股]]、N 股、S 股等。
+- 按上市地与币种（中国）：[[A-share A股 action A|A 股]]、[[B-share B股 action B|B 股]]、[[H-share H股 action H|H 股]]、N 股、S 股等。
 - 按投资风格：成长股（growth stock）、价值股（value stock）、蓝筹股（blue chip）、周期股（cyclical）、防御股（defensive）。
 - 按市值：大盘股（large cap）、中盘股、小盘股（small cap）。
 
@@ -36,12 +36,12 @@ $$R = \frac{D_1 + (P_1 - P_0)}{P_0}$$
 以 20 元买入某股票，一年内获得每股股息 0.6 元，年末股价 22 元，则收益率为 $\frac{0.6 + (22-20)}{20} = 13\%$。
 
 # Related
-- [[Stock market 股票市场]]
+- [[Stock market 股票市场 marché boursier]]
 - [[Stock exchange 证券交易所 bourse|Stock exchange 证券交易所]]
 - [[Listing 上市 cotation|Listing 上市]]
 - [[Long 做多 position longue|Long 做多]]
 - [[Portfolio 投资组合 portefeuille|Portfolio 投资组合]]
-- [[Fund 基金]]
+- [[Fund 基金 fonds]]
 - [[Dividend 股息 dividende|股息]]
 - [[Return 收益率 rendement|收益率]]
 - [[Volatility 波动率 volatilité|波动率]]

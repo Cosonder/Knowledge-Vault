@@ -36,7 +36,7 @@ aliases:
 - **大乘佛教**（Mahāyāna）：流行于中国、日本、韩国、越南，强调普度众生的**菩萨**（bodhisattva）理想，以及空性与佛性思想。其中国化的宗派包括天台、华严、净土和**禅宗**（Chan / Zen）。
 - **金刚乘 / 藏传佛教**（Vajrayāna）：流行于西藏、蒙古，融合密教修法。
 
-禅宗主张"不立文字，教外别传，直指人心，见性成佛"。六祖惠能的"何期自性，本自具足"代表了如来藏 / 佛性思想：觉悟不是向外获得什么，而是去除遮蔽、认出本来就有的东西，见 [[本自具足]]。这一思想也影响了宋明儒家的心学。
+禅宗主张"不立文字，教外别传，直指人心，见性成佛"。六祖惠能的"何期自性，本自具足"代表了如来藏 / 佛性思想：觉悟不是向外获得什么，而是去除遮蔽、认出本来就有的东西，见 [[Inherent completeness 本自具足 complétude intrinsèque]]。这一思想也影响了宋明儒家的心学。
 
 # Key figures
 
@@ -52,6 +52,6 @@ aliases:
 
 # Related
 
-- [[本自具足]]
+- [[Inherent completeness 本自具足 complétude intrinsèque]]
 - [[Stoicism 斯多葛主义 stoïcisme]]
 - [[Cynicism 犬儒主义 cynisme|Cynicism 犬儒主义]]

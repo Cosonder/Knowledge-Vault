@@ -10,9 +10,9 @@ Like the passé simple, it belongs to **literary written narration**. It express
 
 # Formation
 
-the past anterior = the passé simple of *être/avoir* + the [[Past participle 过去分词 Participe passé|past participle]]
+the past anterior = the passé simple of *être/avoir* + the [[Past participle 过去分词 participe passé|past participle]]
 
-Auxiliary choice and [[Agreement 配合 accord|agreement]] follow the [[Perfect 复合过去时 Passé composé|passé composé]].
+Auxiliary choice and [[Agreement 配合 accord|agreement]] follow the [[Perfect 复合过去时 passé composé|passé composé]].
 
 |              | finir (avoir)    | partir (être)              |
 | ------------ | ---------------- | -------------------------- |

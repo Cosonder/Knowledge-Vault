@@ -6,7 +6,7 @@ aliases:
 
 # Definition
 
-**金融**（finance, *finance*）研究的是**资金在时间和不确定性下如何配置**：个人、企业和政府如何获取资金（融资 financing）、如何使用资金（投资 [[Investment 投资|investment]]），以及如何为由此产生的风险定价和分担。
+**金融**（finance, *finance*）研究的是**资金在时间和不确定性下如何配置**：个人、企业和政府如何获取资金（融资 financing）、如何使用资金（投资 [[Investment 投资 investissement|investment]]），以及如何为由此产生的风险定价和分担。
 
 开篇那句话可以这样理解：金融的核心问题不是"如何赚钱"，而是**跨期配置**（把今天的钱和未来的钱相互交换）与**风险配置**（让更能承担风险的人承担风险）。赚钱只是这些交换顺利进行时的结果之一；储蓄、借贷、保险、养老，本质上都是对时间和风险的安排。
 
@@ -21,7 +21,7 @@ aliases:
 # Classification
 
 - **个人金融**（personal finance）：见 [[Personal finance 个人理财 finances personnelles|个人理财]]。
-- **公司金融 / 公司财务**（corporate finance）：企业的融资、投资和分红决策，见 [[Financial management 财务管理|财务管理]]。
+- **公司金融 / 公司财务**（corporate finance）：企业的融资、投资和分红决策，见 [[Financial management 财务管理 gestion financière|财务管理]]。
 - **公共财政**（public finance）：政府的税收、支出和债务。
 - **投资学与资产定价**（investments, asset pricing）。
 - **金融市场与机构**（financial markets and institutions）：见 [[Securities market 证券市场 marché des valeurs mobilières|证券市场]]、银行、[[Insurance 保险 assurance|保险]]。

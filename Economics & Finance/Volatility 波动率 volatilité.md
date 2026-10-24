@@ -29,7 +29,7 @@ $$\hat\sigma = \sqrt{\frac{1}{n-1}\sum_{t=1}^{n}(r_t-\bar r)^2}.$$
 
 $$\sigma_T = \sigma_1\sqrt{T}.$$
 
-日波动率年化：$\sigma_{\text{ann}} = \sigma_{\text{day}}\sqrt{252}$（约 252 个[[Trading day 交易日|交易日]]）；月度：$\sigma_{\text{ann}} = \sigma_{\text{month}}\sqrt{12}$。
+日波动率年化：$\sigma_{\text{ann}} = \sigma_{\text{day}}\sqrt{252}$（约 252 个[[Trading day 交易日 jour de bourse|交易日]]）；月度：$\sigma_{\text{ann}} = \sigma_{\text{month}}\sqrt{12}$。
 
 注意：这依赖独立性。实际收益率存在波动聚集（volatility clustering）和一定的序列相关，$\sqrt{T}$ 规则只是近似。
 
@@ -48,8 +48,8 @@ $T$ 年的**年化**平均对数收益率的标准差为 $\sigma\sqrt{T}/T = \si
 
 # Common misconceptions
 
-- **波动率 ≠ 永久亏损的风险**：波动率度量的是路径上的上下起伏。永久亏损（*perte en capital définitive*）来自发行企业破产、在低点被迫卖出、使用[[Leverage 杠杆|杠杆]]被强平、或集中持有单一资产。一个分散化的指数在长期内可以经历高波动而未出现永久损失；一只低波动的个股也可能突然归零。
-- **"Bourse = casino"**：赌场游戏的期望收益为负且固定（庄家优势），结果独立于任何经济产出；而持有分散的[[Stock 股票 action|股票]]组合，是对企业利润和[[Dividend 股息 dividende|股息]]的所有权，长期期望实际收益历史上为正。短期价格波动大，并不意味着期望为负。将其等同于赌博，混淆了**方差**与**期望**。不过，短线高频交易、高杠杆或[[Speculation 投机|投机]]行为在结构上可以更接近赌博。
+- **波动率 ≠ 永久亏损的风险**：波动率度量的是路径上的上下起伏。永久亏损（*perte en capital définitive*）来自发行企业破产、在低点被迫卖出、使用[[Leverage 杠杆 effet de levier|杠杆]]被强平、或集中持有单一资产。一个分散化的指数在长期内可以经历高波动而未出现永久损失；一只低波动的个股也可能突然归零。
+- **"Bourse = casino"**：赌场游戏的期望收益为负且固定（庄家优势），结果独立于任何经济产出；而持有分散的[[Stock 股票 action|股票]]组合，是对企业利润和[[Dividend 股息 dividende|股息]]的所有权，长期期望实际收益历史上为正。短期价格波动大，并不意味着期望为负。将其等同于赌博，混淆了**方差**与**期望**。不过，短线高频交易、高杠杆或[[Speculation 投机 spéculation|投机]]行为在结构上可以更接近赌博。
 - **"低波动 = 安全"**：现金的名义波动接近零，但实际购买力受[[Inflation 通货膨胀 inflation|通货膨胀]]持续侵蚀。
 - **标准差刻画全部风险**：它是对称的，不区分上行与下行，也无法描述厚尾；[[VaR 风险价值 valeur en risque|VaR]]、最大回撤（*drawdown maximal*）等是补充指标。
 
@@ -73,7 +73,7 @@ $T$ 年的**年化**平均对数收益率的标准差为 $\sigma\sqrt{T}/T = \si
 - [[Option 期权 option|期权]]
 - [[VaR 风险价值 valeur en risque|VaR]]
 - [[Financial risks 金融风险 risques financiers|金融风险]]
-- [[Speculation 投机|投机]]
+- [[Speculation 投机 spéculation|投机]]
 - [[Efficient market hypothesis 有效市场假说 hypothèse des marchés efficients|有效市场假说]]
 
 # Self-check 自测

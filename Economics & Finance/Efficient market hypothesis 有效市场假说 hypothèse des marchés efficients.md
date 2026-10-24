@@ -81,11 +81,11 @@ $$\ln P_{t+1} = \ln P_t + \mu + \varepsilon_{t+1}, \qquad \varepsilon_{t+1} \tex
 
 - [[Index fund 指数基金 fonds indiciel|指数基金]]
 - [[Market 市场 marché|市场]]
-- [[Stock market 股票市场|股票市场]]
-- [[Speculation 投机|投机]]
+- [[Stock market 股票市场 marché boursier|股票市场]]
+- [[Speculation 投机 spéculation|投机]]
 - [[Return 收益率 rendement|收益率]]
 - [[Volatility 波动率 volatilité|波动率]]
-- [[Investment strategy 投资策略|投资策略]]
+- [[Investment strategy 投资策略 stratégie d'investissement|投资策略]]
 
 # Self-check 自测
 

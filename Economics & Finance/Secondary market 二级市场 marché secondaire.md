@@ -7,7 +7,7 @@ aliases:
 
 **二级市场**（secondary market, *marché secondaire*），又称**流通市场**（aftermarket），是已发行的证券在投资者之间**转让和交易**的市场。交易发生在买方与卖方之间，发行人不参与，也不获得资金。
 
-证券首次发行的市场则是[[Primary market 一级市场 marché primaire|一级市场]]。日常所说的"炒股"、在[[Stock exchange 证券交易所 bourse|证券交易所]]买卖 [[A-share A股|A股]] 或 [[NASDAQ 纳斯达克|纳斯达克]]股票，都属于二级市场。
+证券首次发行的市场则是[[Primary market 一级市场 marché primaire|一级市场]]。日常所说的"炒股"、在[[Stock exchange 证券交易所 bourse|证券交易所]]买卖 [[A-share A股 action A|A股]] 或 [[NASDAQ 纳斯达克|纳斯达克]]股票，都属于二级市场。
 
 # Functions
 
@@ -29,7 +29,7 @@ aliases:
 # Related
 
 - [[Securities market 证券市场 marché des valeurs mobilières|证券市场]]
-- [[Stock market 股票市场|股票市场]]
+- [[Stock market 股票市场 marché boursier|股票市场]]
 - [[Market 市场 marché|市场]]
-- [[Trading day 交易日|交易日]]
+- [[Trading day 交易日 jour de bourse|交易日]]
 - [[Listing 上市 cotation|上市]]

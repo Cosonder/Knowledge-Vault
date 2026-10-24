@@ -87,7 +87,7 @@ See [[Indefinite words 泛指词 mots indéfinis|indefinite words]]: *on, quelqu
 
 1. Elision: *je, me, te, se, le, la, ce* elide before a vowel or mute h (*j'ai, l'aime*), see [[Elision 省音 élision|elision]].
 2. *le* can be a neuter pronoun replacing an adjective or a whole clause: *Tu es fatiguée ? — Oui, je **le** suis.*
-3. Pronoun antecedents determine agreement of the [[Past participle 过去分词 Participe passé|past participle]] with *avoir* when the pronoun is a preceding COD: *Je **les** ai vu**es***.
+3. Pronoun antecedents determine agreement of the [[Past participle 过去分词 participe passé|past participle]] with *avoir* when the pronoun is a preceding COD: *Je **les** ai vu**es***.
 
 # Related
 

@@ -5,7 +5,7 @@ aliases:
 ---
 # Definition
 
-**证券投资基金**（investment fund, *fonds d'investissement*）是一种集合投资工具（collective investment scheme）：把众多[[Investor 投资者|投资者]]的资金汇集起来，由专业的基金管理人（fund manager）统一投资于股票、债券、货币市场工具等证券，投资者按份额分享收益、承担风险。
+**证券投资基金**（investment fund, *fonds d'investissement*）是一种集合投资工具（collective investment scheme）：把众多[[Investor 投资者 investisseur|投资者]]的资金汇集起来，由专业的基金管理人（fund manager）统一投资于股票、债券、货币市场工具等证券，投资者按份额分享收益、承担风险。
 
 其核心是"**集合资金、专家管理、组合投资、风险共担、收益共享**"。
 
@@ -20,7 +20,7 @@ aliases:
 - **按组织形式**：契约型（contractual，中国多数基金）与公司型（corporate，如美国的 [[Mutual fund 共同基金 fonds commun de placement|共同基金]]）。
 - **按运作方式**：**开放式**（open-end，可随时申购赎回，份额可变）与**封闭式**（closed-end，份额固定，在交易所买卖）。
 - **按投资对象**：股票型、债券型、混合型、货币市场基金。
-- **按投资理念**：**主动型**（active，力求跑赢基准）与**被动型 / 指数基金**（passive / index fund，复制指数如 [[Standard & Poor’s 500 标准普尔指数|S&P 500]]）。ETF（交易所交易基金）是可在交易所交易的指数基金。
+- **按投资理念**：**主动型**（active，力求跑赢基准）与**被动型 / 指数基金**（passive / index fund，复制指数如 [[Standard & Poor’s 500 标准普尔指数 indice S&P 500|S&P 500]]）。ETF（交易所交易基金）是可在交易所交易的指数基金。
 - **按募集方式**：公募基金与私募基金（如[[Hedge fund 对冲基金 gestion alternative|对冲基金]]）。
 
 # Example
@@ -29,7 +29,7 @@ aliases:
 
 # Related
 
-- [[Fund 基金|基金]]
+- [[Fund 基金 fonds|基金]]
 - [[Portfolio 投资组合 portefeuille|投资组合]]
 - [[Institutional investor 机构投资者 investisseur institutionnel|机构投资者]]
-- [[Dollar cost averaging 平均成本法 (定投)|定投]]
+- [[Dollar cost averaging 平均成本法 investissement programmé|定投]]

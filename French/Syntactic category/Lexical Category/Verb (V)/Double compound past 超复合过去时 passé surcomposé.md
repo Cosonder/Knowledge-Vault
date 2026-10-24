@@ -6,11 +6,11 @@ aliases:
 ---
 # Introduction
 
-The double compound past (*le passé surcomposé*) is the compound form of the [[Perfect 复合过去时 Passé composé|passé composé]]: the auxiliary itself is in the passé composé. 它是“双重复合”的形式，主要出现在口语（尤其法国南部及部分地区），书面语中较少，被语法书视为 passé antérieur 的口语对应物。
+The double compound past (*le passé surcomposé*) is the compound form of the [[Perfect 复合过去时 passé composé|passé composé]]: the auxiliary itself is in the passé composé. 它是“双重复合”的形式，主要出现在口语（尤其法国南部及部分地区），书面语中较少，被语法书视为 passé antérieur 的口语对应物。
 
 # Formation
 
-the passé surcomposé = the passé composé of *avoir* (or *être*) + the [[Past participle 过去分词 Participe passé|past participle]]
+the passé surcomposé = the passé composé of *avoir* (or *être*) + the [[Past participle 过去分词 participe passé|past participle]]
 
 i.e. *avoir* (present) + *eu* / *été* + past participle.
 

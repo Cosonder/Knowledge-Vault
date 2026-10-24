@@ -28,7 +28,7 @@ No article after *quel* (英语 *What a surprise!* 有 *a*，法语没有：❌ 
 With a verb: no inversion.
 > **Quelle** erreur j'ai faite !
 
-Note the agreement of the past participle with a preceding COD (see [[Perfect 复合过去时 Passé composé|passé composé]]): *faite* agrees with *quelle erreur*.
+Note the agreement of the past participle with a preceding COD (see [[Perfect 复合过去时 passé composé|passé composé]]): *faite* agrees with *quelle erreur*.
 
 ## *Que* / *Comme* / *Ce que* / *Qu'est-ce que* + clause
 
@@ -74,4 +74,4 @@ Exclamation about degree ("how ...!"), the clause keeps normal word order.
 - [[Interrogative structure 疑问结构 structure interrogative|interrogative structure]]
 - [[Inversion 倒装 inversion|inversion]]
 - [[Agreement 配合 accord|agreement]]
-- [[Perfect 复合过去时 Passé composé|passé composé]]
+- [[Perfect 复合过去时 passé composé|passé composé]]

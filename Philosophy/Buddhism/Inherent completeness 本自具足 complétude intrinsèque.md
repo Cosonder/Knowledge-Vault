@@ -1,6 +1,8 @@
 ---
 aliases:
   - 本自具足
+  - inherent completeness
+  - complétude intrinsèque
 ---
 # Gemini Q&A
 

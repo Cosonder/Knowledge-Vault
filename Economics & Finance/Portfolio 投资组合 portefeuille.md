@@ -5,9 +5,9 @@ aliases:
 ---
 # Definition
 
-In [[Finance 金融 finance|finance]], a **portfolio** is a collection of [[Investment 投资|investments]].
+In [[Finance 金融 finance|finance]], a **portfolio** is a collection of [[Investment 投资 investissement|investments]].
 
-**投资组合**（portfolio, *portefeuille*）是投资者所持有的各类[[Asset 资产 actif|资产]]的集合，如[[Stock 股票 action|股票]]、债券、现金、[[Fund 基金|基金]]、[[Real estate 不动产 immobilier|不动产]]、[[Commodity 商品 matière première|商品]]等。研究的重点不是单个资产，而是资产**组合在一起**之后的整体收益与风险。
+**投资组合**（portfolio, *portefeuille*）是投资者所持有的各类[[Asset 资产 actif|资产]]的集合，如[[Stock 股票 action|股票]]、债券、现金、[[Fund 基金 fonds|基金]]、[[Real estate 不动产 immobilier|不动产]]、[[Commodity 商品 matière première|商品]]等。研究的重点不是单个资产，而是资产**组合在一起**之后的整体收益与风险。
 
 # Core ideas
 
@@ -41,7 +41,7 @@ $$\sigma_p^2 = w_1^2\sigma_1^2 + w_2^2\sigma_2^2 + 2w_1w_2\rho_{12}\sigma_1\sigm
 
 # Related
 
-- [[Investment strategy 投资策略|投资策略]]
+- [[Investment strategy 投资策略 stratégie d'investissement|投资策略]]
 - [[Risk management 风险管理 gestion des risques|风险管理]]
 - [[Investment fund 证券投资基金 fonds d'investissement|证券投资基金]]
 - [[VaR 风险价值 valeur en risque|VaR]]

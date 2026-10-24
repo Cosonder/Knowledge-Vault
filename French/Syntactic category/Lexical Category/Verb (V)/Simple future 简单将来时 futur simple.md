@@ -99,7 +99,7 @@ But after *si* (condition), never the future: *Si tu **viens**, je **serai** con
 
 # Futur simple vs futur proche
 
-The *futur proche* (*aller* + [[Infinitive 不定式 Infinitif|infinitive]]) is very common in speech.
+The *futur proche* (*aller* + [[Infinitive 不定式 infinitif|infinitive]]) is very common in speech.
 
 | futur proche                                  | futur simple                               |
 | --------------------------------------------- | ------------------------------------------ |

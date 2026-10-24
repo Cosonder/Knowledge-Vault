@@ -27,7 +27,7 @@ A 的净融资成本 = 贷款浮动利率 − 收到的 SOFR + 支付的 3%，�
 # Uses
 - [[Hedge 对冲 couverture|对冲]]利率风险、汇率风险、信用风险
 - 改变资产负债的现金流结构（资产负债管理 ALM）
-- [[Speculation 投机]]：表达对利率走势的观点
+- [[Speculation 投机 spéculation]]：表达对利率走势的观点
 - 风险：交易对手风险（counterparty risk），危机后多数标准化互换须通过中央对手方（CCP）集中清算。
 
 # Related

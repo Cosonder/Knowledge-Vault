@@ -40,7 +40,7 @@ Albert Camus 在《西西弗斯神话》（*Le Mythe de Sisyphe*, 1942）中描�
 
 **4. 东方的回响**
 
-禅宗有"担水砍柴，无非妙道"的说法：觉悟不在日常之外，而在日常之中。这与 [[本自具足]] 的思路相通：意义不需要向外寻找、通过冒险获得。
+禅宗有"担水砍柴，无非妙道"的说法：觉悟不在日常之外，而在日常之中。这与 [[Inherent completeness 本自具足 complétude intrinsèque]] 的思路相通：意义不需要向外寻找、通过冒险获得。
 
 # Reflection
 
@@ -52,4 +52,4 @@ Albert Camus 在《西西弗斯神话》（*Le Mythe de Sisyphe*, 1942）中描�
 
 - [[Stoicism 斯多葛主义 stoïcisme]]
 - [[Cynicism 犬儒主义 cynisme|Cynicism 犬儒主义]]
-- [[本自具足]]
+- [[Inherent completeness 本自具足 complétude intrinsèque]]

@@ -32,8 +32,8 @@ $$h^* = \rho \cdot \frac{\sigma_S}{\sigma_F}$$
 对冲很少完美。现货价格与期货价格之差称为**基差**（basis = spot − futures），基差的不确定变动称为基差风险（basis risk）；用相关但不同的资产对冲（cross hedging）时该风险更大。
 
 # Distinction
-- 对冲 vs. [[Speculation 投机|投机]]：对冲减少既有风险，投机主动承担风险以博取收益。同一种工具（如期货）可用于两种目的。
-- 对冲 vs. [[Hedge fund 对冲基金 gestion alternative|对冲基金]]：对冲基金得名于早期的多空对冲策略，但现代对冲基金泛指采用灵活策略（含[[Leverage 杠杆|杠杆]]、做空）的私募基金，未必以对冲为主。
+- 对冲 vs. [[Speculation 投机 spéculation|投机]]：对冲减少既有风险，投机主动承担风险以博取收益。同一种工具（如期货）可用于两种目的。
+- 对冲 vs. [[Hedge fund 对冲基金 gestion alternative|对冲基金]]：对冲基金得名于早期的多空对冲策略，但现代对冲基金泛指采用灵活策略（含[[Leverage 杠杆 effet de levier|杠杆]]、做空）的私募基金，未必以对冲为主。
 
 # Related
 - [[Risk management 风险管理 gestion des risques|Risk management 风险管理]]

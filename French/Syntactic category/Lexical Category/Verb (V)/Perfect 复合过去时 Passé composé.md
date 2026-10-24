@@ -1,6 +1,7 @@
 ---
 aliases:
   - perfect
+  - passé composé
 ---
 # Introduction
 
@@ -25,7 +26,7 @@ The past participle of those verbs with "avoir" as their auxiliary agrees with t
 
 Hence if the direct object appears **after the verb**, there is no agreement, i.e., we use the default form of the past participle, the masculine singular form.
 
-There are four major situation when the COD appears before the verb.
+There are four major situations when the COD appears before the verb.
 1. Object pronoun.
 
 > J'ai vu **Marie**.
@@ -38,13 +39,13 @@ There are four major situation when the COD appears before the verb.
 > les fleurs que j'ai **achetées**
 
 > J'ai écrit **la lettre**.
-   la lettre **que** j'ai **écrite**
+> la lettre **que** j'ai **écrite**
 3. Interrogative
 > Tu as acheté une robe.
 > Quelle robe as-tu achetée?
 4. Exclamation
 > J'ai fait **une erreur**.
-   **Quelle erreur** j'ai faite !
+> **Quelle erreur** j'ai faite !
 
 Also note that a COI does not trigger agreement no matter where it is.
 

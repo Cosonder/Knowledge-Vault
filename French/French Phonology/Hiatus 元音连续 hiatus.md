@@ -28,7 +28,7 @@ A latent final consonant is pronounced before a vowel. See [[Liaison 联诵 liai
 > les‿amis /le.z‿a.mi/, ils‿ont /il.z‿ɔ̃/
 
 ## 3. Euphonic -t- in inversion
-When an inverted verb ends in a vowel (*-a, -e, -c*) and the subject pronoun is *il, elle, on*, a *-t-* is inserted. See [[Inversion 倒装 inversion|inversion]].
+When an inverted verb ends in a vowel (*-a, -e*) or in *-c* (*vainc*) and the subject pronoun is *il, elle, on*, a *-t-* is inserted. See [[Inversion 倒装 inversion|inversion]].
 > Parle**-t-**il français ?
 > Va**-t-**elle venir ?
 > Où **a-t-**on mis les clés ?

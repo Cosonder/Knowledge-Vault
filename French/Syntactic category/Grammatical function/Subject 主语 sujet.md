@@ -21,7 +21,7 @@ Test: the subject answers *qui est-ce qui ? / qu'est-ce qui ?* + verb, and can b
 | noun phrase                                  | **Le chat de ma voisine** dort.                 |
 | proper noun                                  | **Marie** chante.                               |
 | [[Personal pronoun 人称代词 pronom personnel\|personal pronoun]] (clitic) | **Il** pleut. **Nous** partons.    |
-| other [[Pronoun 代词 pronom|pronoun]]               | **Celui-ci** est cassé. **Personne** n'est venu. |
+| other [[Pronoun 代词 pronom\|pronoun]]               | **Celui-ci** est cassé. **Personne** n'est venu. |
 | [[Infinitive 不定式 Infinitif\|infinitive]]    | **Fumer** tue.                                  |
 | subordinate clause                           | **Qu'il soit en retard** m'étonne.              |
 

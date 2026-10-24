@@ -37,7 +37,7 @@ Hub page for the French area. The notes are organized by linguistic category. Mo
 
 - Sound: [[Phonetics 语音学 phonétique|phonetics]] · [[Phonology 音韵学 phonologie|phonology]] · [[Phone 音素 phone|phone]] · [[Phoneme 音位 phonème|phoneme]] · [[Emic units 位单位 unités émiques|emic units]]
 - Form: [[Morphology 构词学 morphologie|morphology]] · [[Inflection 屈折变化 flexion|inflection]] · [[Word 词 mot|word]] · [[Orthography 正字法 orthographe|orthography]]
-- Vocabulary and meaning: [[Lexicon 词库 lexique|lexicon]] · [[Lexicology 词汇学 lexicologie|lexicology]] · [[Phrase 短语 expression|phrase]] · [[Phraseology 熟语学 phraséologie|phraseology]] · [[Etymology 语源学 étymologie|etymology]] · [[Semantics 语义学 sémantique|semantics]] · [[Semiotics 符号学 sémiotique|semiotics]]
+- Vocabulary and meaning: [[Lexicon 词库 lexique|lexicon]] · [[Lexicology 词汇学 lexicologie|lexicology]] · [[Lexeme 词位 lexème|lexeme]] · [[Phrase 短语 expression|phrase]] · [[Phraseology 熟语学 phraséologie|phraseology]] · [[Etymology 语源学 étymologie|etymology]] · [[Semantics 语义学 sémantique|semantics]] · [[Semiotics 符号学 sémiotique|semiotics]]
 
 # Vocabulary and reading
 

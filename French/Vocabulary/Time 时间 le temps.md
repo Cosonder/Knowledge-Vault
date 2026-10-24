@@ -122,14 +122,12 @@ Janus 是非常有意思的罗马神，通常被表现成**两张脸**：
 
 **mars** ← _Martius_ ← **Mars**
 
-1
-
 这个是最明显的：
 
 > **Mars** = 罗马战神  
 > **mars** = 三月
 
-而且你刚才问星期词源时见过同一个神：
+星期词源中出现过同一个神：
 
 > **mardi** ← _Martis dies_ = Mars's day  
 > **mars** ← _Martius_ = Mars's month
@@ -194,8 +192,6 @@ Maia 是与生长、丰饶等相关的女神。
 ## 6. juin — Juno
 
 **juin** ← _Iunius_ ← **Juno / Iuno**
-
-1
 
 Juno 是罗马神话中非常重要的女神，也是 Jupiter 的妻子。
 
@@ -566,7 +562,6 @@ Juno 是罗马神话中非常重要的女神，也是 Jupiter 的妻子。
 |jadis|昔日，较文学|
 |auparavant|此前|
 |avant|以前|
-|autrefois|过去、从前|
 |récemment|最近|
 |dernièrement|最近|
 |tout à l’heure|刚才 / 待会儿|
@@ -908,5 +903,3 @@ Juno 是罗马神话中非常重要的女神，也是 Jupiter 的妻子。
 
 > **à l’heure** = 准时  
 > **à temps** = 及时
-
-如果你在整理法语笔记，我建议把“时间表达”单独分成 **日期、持续、频率、先后、相对时间、时间连接词** 六张表，这比单纯按词性分类更实用。

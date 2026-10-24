@@ -1,14 +1,15 @@
 ---
 aliases:
   - cognate
+  - cognat
 ---
-In historical linguistics, cognates are sets of words that have been inherited in direct decent from an etymological ancestor in a common parent language.
+In historical linguistics, cognates are sets of words that have been inherited in direct descent from an etymological ancestor in a common parent language.
 
-False cognate are pairs of words that appear to have a common origin but which in fact do not.
+False cognates are pairs of words that appear to have a common origin but which in fact do not.
 
 
 
-A false friend (伪友) is a word in a different language that looks or sounds similar to a word in a given language, but differ significantly in meaning.
+A false friend (伪友) is a word in a different language that looks or sounds similar to a word in a given language, but differs significantly in meaning.
 
 A false cognate is different to a false friend in that deciding a false cognate requires knowledge on historical development of language while deciding a false friend does not (which only requires knowledge on the meaning and usage).
 
@@ -87,8 +88,8 @@ A false cognate is different to a false friend in that deciding a false cognate 
 société 在法语中有公司的意思而society在英语中通常指社会
 
 ## élaborer vs elaborate (v.)
-élaborer 多指“制定”，elaborate多指“阐述”，（虽然也可指“制作”
-注意法语里élaboré和英语中elaborate(adj.)是一样的意思zai
+élaborer 多指“制定”，elaborate多指“阐述”，（虽然也可指“制作”）
+注意法语里élaboré和英语中elaborate(adj.)是一样的意思
 
 ## ignorer vs ignore
 ignorer在法语中除了表示“忽略”以外还可表示“不知道”，但ignore在英语中只有“忽略”的意思
@@ -98,14 +99,14 @@ ignorer在法语中除了表示“忽略”以外还可表示“不知道”，�
 而法语中的équiper(v.)和équipé(adj.)则是“装备”和“装备好的”的意思
 
 ## conjoncture vs conjuncture
-这似乎不是一对cognate，但是注意conjoncture在法语中和conjuncture在英语中都是“事态”得意思，而conjecture在法语和英语中都是“猜想”的意思
+这似乎不是一对cognate，但是注意conjoncture在法语中和conjuncture在英语中都是“事态”的意思，而conjecture在法语和英语中都是“猜想”的意思
 
 ## uniquement vs uniquely
 uniquement在法语中是only/solely的意思，uniquely在英语中是“唯一地”的意思
 但注意法语和英语中unique是相同的意思
 
 ## histoire vs history
-histoire在法语中既有”历史“也有”故事“的意思，而history在英语中多指”历史“。
+histoire在法语中既有“历史”也有“故事”的意思，而history在英语中多指“历史”。
 
 ## agonie vs agony
 

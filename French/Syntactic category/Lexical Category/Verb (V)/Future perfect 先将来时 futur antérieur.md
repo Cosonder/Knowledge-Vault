@@ -5,7 +5,7 @@ aliases:
 ---
 # Introduction
 
-The future perfect (*le futur antérieur*) is the compound form of the [[Simple future 简单将来时 futur simple|simple future]]. It presents an action as **completed before a given point in the future** (“future in the past of the future”).
+The future perfect (*le futur antérieur*) is the compound form of the [[Simple future 简单将来时 futur simple|simple future]]. It presents an action as **completed before a given point in the future** (“past in the future”).
 
 # Formation
 

@@ -1,6 +1,5 @@
 ---
 aliases:
-  - exclaimative structure
   - exclamative structure
   - structure exclamative
 ---

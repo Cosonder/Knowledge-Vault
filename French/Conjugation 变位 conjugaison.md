@@ -74,7 +74,7 @@ Note: *parle, parles, parlent* are pronounced the same [paʁl]. 法语书面上�
 | Form                    | Stem                                              | Example (*finir*, *boire*)      |
 | ----------------------- | ------------------------------------------------- | ------------------------------- |
 | [[Imperfect 未完成过去时 Imparfait\|imparfait]] | *nous* present minus *-ons* (only exception: *être* → *ét-*) | nous finiss-ons → je **finiss**ais; nous buv-ons → je **buv**ais |
-| [[Simple future 简单将来时 futur simple|futur]], conditionnel | infinitive (drop final *-e* of *-re*) | je **finir**ai; je **boir**ai |
+| [[Simple future 简单将来时 futur simple\|futur]], conditionnel | infinitive (drop final *-e* of *-re*) | je **finir**ai; je **boir**ai |
 | subjonctif présent      | *ils* present minus *-ent* (je, tu, il, ils); *nous/vous* = imparfait forms | qu'il **finiss**e; qu'il **boiv**e, que nous **buv**ions |
 | [[Present participle 现在分词 Participe présent\|participe présent]] | *nous* present stem + *-ant* | **finiss**ant, **buv**ant |
 | imperative              | present tu/nous/vous, no subject (*-er* verbs drop *-s*) | parle, parlons, parlez |

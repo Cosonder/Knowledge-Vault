@@ -21,7 +21,7 @@ There are some phonetic modifications.
 * *-f* = /.v‿/
 * *-p* = /.p‿/
 * *-c* = /.k‿/
-* *-k* = /.k‿/
+* *-q* = /.k‿/
 * *-g* = /.k‿/
 * *-er* = /ɛ.ʁ‿/ or /e.ʁ‿/
 * *-il* = /i.j‿/
@@ -62,7 +62,7 @@ There are a small number of contexts where speakers consistently produce liaison
 > _États-Unis_ /e.ta.z‿y.ni/ ("USA"),
 > _porc-épic_ /pɔʁ.k‿e.pik/ ("porcupine")
 
-Note that the first two contexts also require mandatory vowel [[Elision 省音 élision|elision]] (https://en.wikipedia.org/wiki/Elision "Elision") for the relevant determiners and pronouns (_le_, _la_, _je_, _me_, _se_, etc.)
+Note that the first two contexts also require mandatory vowel [[Elision 省音 élision|elision]] for the relevant determiners and pronouns (_le_, _la_, _je_, _me_, _se_, etc.)
 
 The following contexts are often listed as mandatory liaison contexts, but they are more accurately characterized as contexts where liaison is frequent:
 
@@ -71,7 +71,7 @@ The following contexts are often listed as mandatory liaison contexts, but they 
 > _certaines études_/sɛʁ.tɛn.z‿e.tyd/ ("some studies")
 - between an **adverb** and the **word it modifies**: 
 > _assez intéressant_ /a.se.z‿ɛ̃.te.ʁɛ.sɑ̃/ ("quite interesting"), 
-> _trop amusé_ /tʁo.p‿a.my.ze] ("amused too much")
+> _trop amusé_ /tʁo.p‿a.my.ze/ ("amused too much")
 - after a **(monosyllabic) preposition**: 
 > _chez un ami_ /ʃe.z‿œ̃.n‿a.mi/ ("at a friend's house")
 
@@ -114,7 +114,7 @@ Conversely, in informal styles, speakers will semi-consciously avoid certain opt
 | être + following element                  | often facultative | *sont‿heureux*                         | 正式语体更多  |
 | non-pronominal noun phrase + verb         | interdite         | *mes amis arrivent*                    |         |
 | two complements of a ditransitive verb    | interdite         | donner des cadeaux à Jean              |         |
-| two complete clause                       | interdite         | ils parlent et j'écoute                |         |
+| two complete clauses                      | interdite         | ils parlent et j'écoute                |         |
 | after *et*                                | interdite         | *et elle*                              |         |
 | after any singular noun                   | interdite         | *garçon intelligent*,*parents ont...*, |         |
 | before *h* aspiré                         | interdite         | *les haricots*                         |         |

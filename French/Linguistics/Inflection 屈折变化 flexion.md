@@ -38,7 +38,7 @@ Much French inflection is visible only in writing:
 > il parle / ils parlent → both /paʁl/
 > joli / jolie / jolis / jolies → all /ʒɔli/
 
-Spoken French often marks number on the determiner (*le* /lə/ vs *les* /le/) or through [[Liaison 联诵 liaison|liaison]] (*ils‿ont* /ilzɔ̃/ vs *ils sont* /ilsɔ̃/).
+Spoken French often marks number on the determiner (*le* /lə/ vs *les* /le/) or through [[Liaison 联诵 liaison|liaison]] (*il aime* /ilɛm/ vs *ils‿aiment* /ilzɛm/).
 
 # Contrast
 

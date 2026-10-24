@@ -18,7 +18,7 @@ The terms were coined by Kenneth Pike (1954) from *phon**emic*** vs *phon**etic*
 | phoneme 音位 | phone 音素 | allophone | [[Phonology 音韵学 phonologie\|phonology]] |
 | morpheme 语素 | morph | allomorph | [[Morphology 构词学 morphologie\|morphology]] |
 | grapheme 字位 | glyph 字形 | allograph | [[Orthography 正字法 orthographe\|orthography]] |
-| lexeme 词位 | word-form 词形 | — | [[Lexicology 词汇学 lexicologie\|lexicology]] |
+| [[Lexeme 词位 lexème\|lexeme 词位]] | word-form 词形 | — | [[Lexicology 词汇学 lexicologie\|lexicology]] |
 
 # Examples
 * [[Phoneme 音位 phonème]] — /ʁ/ in French, realized as \[ʁ\] or \[χ\]

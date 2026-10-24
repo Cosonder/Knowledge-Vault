@@ -16,8 +16,8 @@ Every simple tense has a compound counterpart = auxiliary (*avoir/être*) **in t
 | [[Present indicative 直陈式现在时 indicatif présent]] | [[Perfect 复合过去时 Passé composé]]                   |
 | [[Imperfect 未完成过去时 Imparfait]]                  | [[Pluperfect 愈过去时 plus-que-parfait]]              |
 | [[Past historic 简单过去时 passé simple]]            | [[Past anterior 先过去时 passé antérieur]]            |
-| [[Perfect 复合过去时 Passé composé]]                 | [[Double compound past 超复合过去时 passé surcomposé|Double compound 超复合过去时 past passé surcomposé]] |
-| [[Simple future 简单将来时 futur simple|Simple future  简单将来时 futur simple]]           | [[Future perfect 先将来时 futur antérieur]]           |
+| [[Perfect 复合过去时 Passé composé]]                 | [[Double compound past 超复合过去时 passé surcomposé]] |
+| [[Simple future 简单将来时 futur simple]]           | [[Future perfect 先将来时 futur antérieur]]           |
 
 Note: the passé surcomposé is the compound of a compound: auxiliary in the passé composé + past participle (*j'ai eu fini*).
 

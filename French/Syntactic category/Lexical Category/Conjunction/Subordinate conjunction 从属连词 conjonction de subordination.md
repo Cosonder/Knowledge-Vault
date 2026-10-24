@@ -12,7 +12,7 @@ A subordinate conjunction (*conjonction de subordination*) introduces a **subord
 
 Simple conjunctions: *que, quand, comme, si, lorsque, puisque, quoique*. Most others are compound *locutions conjonctives* built on *que*: *parce que, bien que, pour que, avant que…*
 
-*que, lorsque, puisque, quoique* elide before *il(s), elle(s), on, un(e)*: *qu'il, lorsqu'elle* (see [[Elision 省音 élision|elision]]); *si* elides only before *il(s)*: *s'il*.
+*que* elides before any vowel; *lorsque, puisque, quoique* traditionally only before *il(s), elle(s), on, un(e)*: *qu'il, lorsqu'elle* (see [[Elision 省音 élision|elision]]); *si* elides only before *il(s)*: *s'il*.
 
 # Indicative or subjunctive?
 

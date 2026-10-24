@@ -74,7 +74,7 @@ See [[Agreement 配合 accord|agreement]]; the detailed rules are in [[Perfect �
 Special cases:
 
 - *en* as COD: usually no agreement: *Des pommes, j'en ai **mangé**.*
-- p.p. + infinitive: since the 1990 reform, *laissé* and *fait* + infinitive stay invariable: *Je les ai **fait** venir.*
+- p.p. + infinitive: *fait* + infinitive has always been invariable; since the 1990 reform *laissé* + infinitive may be invariable too: *Je les ai **fait** venir.*
 - Verbs of measure (*coûter, peser, durer*) in their literal sense: no agreement: *les vingt euros que ça m'a **coûté**.*
 
 # English equivalent

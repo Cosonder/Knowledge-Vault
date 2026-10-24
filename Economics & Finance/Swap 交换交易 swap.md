@@ -1,6 +1,7 @@
 ---
 aliases:
   - swap
+  - "contrat d'échange"
 ---
 # Definition
 **互换 / 交换交易**（swap，法 swap / contrat d'échange）是交易双方约定在未来一段时间内，按预先确定的规则定期交换一系列现金流的[[Derivative 金融衍生品 produit dérivé|金融衍生品]]合约。互换可视为一系列[[Forward contract 远期合同 contrat à terme|远期合约]]的组合，绝大多数在场外市场（OTC，over-the-counter）交易，按 ISDA 主协议签订。

@@ -51,7 +51,7 @@ The two definitions are equivalent: chambers of the simplicial building with $\d
 
 # References
 
-Recommendations collected in [[Any good reference for Tits Building?]] (MathOverflow 74117):
+Recommendations collected in the MathOverflow question *Any good reference for Tits Building?* (MathOverflow 74117):
 
 - P. Abramenko, K. S. Brown, *Buildings: Theory and Applications*, GTM 248, Springer 2008. The standard reference; the first edition is K. S. Brown, *Buildings*, Springer 1989.
 - J. Tits, Reductive groups over local fields, in *Automorphic Forms, Representations and L-Functions* (Corvallis 1977), Proc. Symp. Pure Math. 33, Part 1, AMS 1979. (The clipping calls this "Corvallis 1979".)

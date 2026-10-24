@@ -28,7 +28,7 @@ A mutual fund is an [[Investment fund 证券投资基金 fonds d'investissement|
 
 # Example
 
-费用率的影响：投入 10 万元，年毛收益 7%，持有 30 年。费用率 0.1% 时终值约 $10\times1.069^{30} \approx 74.1$ 万元；费用率 1.5% 时约 $10\times1.055^{30} \approx 49.8$ 万元。差距来自[[Compound interest 复利 intérêts composés|复利]]。
+费用率的影响：投入 10 万元，年毛收益 7%，持有 30 年。费用率 0.1% 时终值约 $10\times1.069^{30} \approx 74.0$ 万元；费用率 1.5% 时约 $10\times1.055^{30} \approx 49.8$ 万元。差距来自[[Compound interest 复利 intérêts composés|复利]]。
 
 # Related
 

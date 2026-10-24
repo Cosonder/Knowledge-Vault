@@ -1,9 +1,11 @@
 ---
 aliases:
   - incentive
+  - incitation
+  - 诱因
 ---
 # Personal Reflections
-I want to summarize all the incentive I have been given in the past years. For each piece of work (musics, movies, animes, novels, etc.), I would like to discuss why I have been accepting myself getting acquainted to them.
+I want to summarize all the incentives I have been given in the past years. For each piece of work (music, movies, animes, novels, etc.), I would like to discuss why I have been accepting myself getting acquainted with them.
 # Gemini Q&A
 ## Is there a difference between incentive and motivation in psychology ?
 

@@ -22,7 +22,7 @@ In corporate finance, a **listing** refers to the company's shares being on the 
 
 | 优点 | 缺点 |
 |---|---|
-| 筹集大量[[Financial capital 资本 capital financier|资本]] | 发行和合规成本高 |
+| 筹集大量[[Financial capital 资本 capital financier\|资本]] | 发行和合规成本高 |
 | 股份流动性提高，便于估值和股权激励 | 信息披露要求严格 |
 | 提升知名度与信用 | 股权被稀释，可能面临收购 |
 | 原股东可退出变现 | 面临短期业绩和股价压力 |

@@ -1,10 +1,11 @@
 ---
 aliases:
   - trading day
+  - jour de bourse
 ---
-In [business](app://en.wikipedia.org/wiki/Business "Business"), the **trading day** or **regular trading hours (RTH)** is the time span that a [stock exchange](app://en.wikipedia.org/wiki/Stock_exchange "Stock exchange") is open, as opposed to [electronic or extended trading hours](app://en.wikipedia.org/wiki/Electronic_trading_hours "Electronic trading hours") (ETH).
+In [business](https://en.wikipedia.org/wiki/Business "Business"), the **trading day** or **regular trading hours (RTH)** is the time span that a [stock exchange](https://en.wikipedia.org/wiki/Stock_exchange "Stock exchange") is open, as opposed to [electronic or extended trading hours](https://en.wikipedia.org/wiki/Electronic_trading_hours "Electronic trading hours") (ETH).
 
-The NYSE and [NASDAQ](app://en.wikipedia.org/wiki/Nasdaq "Nasdaq") average about 251 trading days a year. This is from 365.2425 (days on average per year) * 5/7 (proportion work days per week) - 10 (holidays) = 250.8875 ≈ 251.
+The NYSE and [NASDAQ](https://en.wikipedia.org/wiki/Nasdaq "Nasdaq") average about 251 trading days a year. This is from 365.2425 (days on average per year) * 5/7 (proportion work days per week) - 10 (holidays) = 250.8875 ≈ 251.
 
 
 ## 为什么股市需要在一天的固定时间开盘和收盘？
@@ -53,6 +54,6 @@ The NYSE and [NASDAQ](app://en.wikipedia.org/wiki/Nasdaq "Nasdaq") average abo
 
 > 💡 **补充一个清醒的小视角**
 > 
-   实际上，现在已经有了 **“盘前交易（Pre-market）”** 和 **“盘后交易（After-hours）”** 。普通人在正常交易时间外也可以买卖股票。
+> 实际上，现在已经有了 **“盘前交易（Pre-market）”** 和 **“盘后交易（After-hours）”** 。普通人在正常交易时间外也可以买卖股票。
 > 
 > 但只要你观察过盘后交易就会发现：**它的交易量极低，价格波动极其诡异和剧烈**。这恰恰反向证明了，为什么绝大多数理性的长线投资者（包括定投 ETF 的人），都只会选择在正式的“固定开盘时间”内去下单。

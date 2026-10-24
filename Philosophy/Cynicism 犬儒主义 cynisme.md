@@ -31,7 +31,7 @@ aliases:
 
 # Cynicism and Stoicism
 
-斯多葛主义直接从犬儒派继承了"美德即唯一的善""外物无所谓""顺应自然"等核心观点，但把它系统化、并重新接纳了社会生活。犬儒派以表演性的对抗来揭露文明的虚伪，是"减法"的哲学；斯多葛派在承担社会角色的同时保持内心自由，是"加法"的哲学。详见 [[Stoicism 斯多葛主义]]。
+斯多葛主义直接从犬儒派继承了"美德即唯一的善""外物无所谓""顺应自然"等核心观点，但把它系统化、并重新接纳了社会生活。犬儒派以表演性的对抗来揭露文明的虚伪，是"减法"的哲学；斯多葛派在承担社会角色的同时保持内心自由，是"加法"的哲学。详见 [[Stoicism 斯多葛主义 stoïcisme]]。
 
 # From ancient to modern
 
@@ -41,6 +41,6 @@ aliases:
 
 # Related
 
-- [[Stoicism 斯多葛主义]]
+- [[Stoicism 斯多葛主义 stoïcisme]]
 - [[Buddhism 佛教 bouddhisme|Buddhism 佛教]]（同样以减少欲望与执着为解脱之道）
 - [[Adventure & Maintenance 冒险与日常 aventure et entretien|Adventure & Maintenance]]

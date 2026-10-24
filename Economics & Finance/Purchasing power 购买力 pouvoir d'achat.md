@@ -27,7 +27,7 @@ $$V_{\text{real}} = \frac{N}{(1+\pi)^t}.$$
 
 $$V_t = N_0\left(\frac{1+i}{1+\pi}\right)^t = N_0\,(1+r)^t,$$
 
-其中 $r$ 是 [[Interest rate 利率 taux d'intérêt|Fisher 方程]] 中的实际利率。购买力保持不变当且仅当 $i \ge \pi$（税后、扣费后）。
+其中 $r$ 是 [[Interest rate 利率 taux d'intérêt|Fisher 方程]] 中的实际利率。购买力不下降当且仅当 $i \ge \pi$（税后、扣费后）。
 
 购买力减半所需时间：$t_{1/2} = \ln 2/\ln(1+\pi) \approx 72/(100\pi)$，与[[Compound interest 复利 intérêts composés|复利]]的 72 法则同构。
 

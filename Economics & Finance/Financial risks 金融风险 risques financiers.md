@@ -19,7 +19,7 @@ aliases:
   - 市场流动性风险：无法以合理价格迅速变现资产。
   - 融资流动性风险：无法及时获得资金偿还到期债务。
 - **操作风险**（operational risk，法 risque opérationnel）：内部流程、人员、系统失误或外部事件（如欺诈、IT 故障）造成的损失。
-- 其他：法律与合规风险、模型风险（model risk）、系统性风险（systemic risk）。
+- 其他：法律与合规风险、模型风险（model risk）、系统性金融风险（systemic risk，区别于下文的 systematic risk）。
 
 另一种重要区分：
 - **系统性风险**（systematic risk，不可分散风险）：影响整个市场，如经济衰退、利率变化，用 β 衡量。

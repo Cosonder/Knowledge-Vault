@@ -21,7 +21,7 @@ aliases:
 
 投资方式：
 - 直接持有物业
-- 房地产投资信托（REITs，Real Estate Investment Trust；法 SIIC / SCPI）：在交易所上市，提高流动性
+- 房地产投资信托（REITs，Real Estate Investment Trust；法 SIIC 为上市型，SCPI 为非上市型）：将不动产证券化，提高流动性
 - 房地产基金、房地产企业[[Stock 股票 action|股票]]、抵押贷款支持证券（MBS）
 
 # Characteristics

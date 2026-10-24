@@ -15,10 +15,10 @@ aliases:
 
 | 类型 | 英文 / français | 特点 |
 |---|---|---|
-| 远期 | forward / *contrat à terme de gré à gré* | 场外（OTC）、非标准化，双方约定未来以固定价格交割，见 [[Forward contract 远期合同 contrat à terme|远期合同]] |
-| 期货 | futures / *contrat à terme standardisé* | 交易所交易、标准化、每日盯市结算，见 [[Future 期货 contrat à terme normalisé|期货]] |
+| 远期 | forward / *contrat à terme de gré à gré* | 场外（OTC）、非标准化，双方约定未来以固定价格交割，见 [[Forward contract 远期合同 contrat à terme\|远期合同]] |
+| 期货 | futures / *contrat à terme standardisé* | 交易所交易、标准化、每日盯市结算，见 [[Future 期货 contrat à terme normalisé\|期货]] |
 | 期权 | option / *option* | 买方支付权利金，获得在未来以约定价格买入（call）或卖出（put）的**权利**而非义务 |
-| 互换 | swap / *swap* | 双方交换一系列现金流，如固定利率换浮动利率，见 [[Swap 交换交易 swap|交换交易]] |
+| 互换 | swap / *swap* | 双方交换一系列现金流，如固定利率换浮动利率，见 [[Swap 交换交易 swap\|交换交易]] |
 
 按交易场所可分为**场内**（exchange-traded）与**场外**（over-the-counter, OTC）衍生品。
 

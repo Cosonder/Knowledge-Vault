@@ -1,6 +1,7 @@
 ---
 aliases:
   - A-share
+  - action A
 ---
 # Definition
 **A-shares** ([Chinese](https://en.wikipedia.org/wiki/Chinese_language "Chinese language"): A股), also known as **domestic shares** ([Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters "Simplified Chinese characters"): 内资股), are shares that are denominated in [renminbi](https://en.wikipedia.org/wiki/Renminbi "Renminbi") and traded in the [Shanghai](https://en.wikipedia.org/wiki/Shanghai_Stock_Exchange "Shanghai Stock Exchange") and [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen_Stock_Exchange "Shenzhen Stock Exchange") stock exchanges,[\[1\]](https://en.wikipedia.org/wiki/A-share_\(mainland_China\)#cite_note-1) as well as the [National Equities Exchange and Quotations](https://en.wikipedia.org/wiki/National_Equities_Exchange_and_Quotations "National Equities Exchange and Quotations").
@@ -45,7 +46,7 @@ These are in contrast to [B-shares](https://en.wikipedia.org/wiki/B_share_\(mai
 
 #### 💡 情景 A：你在 A 股账户里买“纳斯达克 ETF”
 
-- **产品：** 比如国内著名的 华安纳斯达克100ETF（159941） 或 广发纳指ETF（159942）。
+- **产品：** 比如国内著名的 广发纳斯达克100ETF（159941） 或 国泰纳斯达克100ETF（513100）。
     
 - **逻辑：** 尽管你是在**A股市场**的营业时间内、用**人民币**下单，但国内的基金公司收到你的钱后，会自动帮你换成美元，去美国**纳斯达克市场**买入苹果、微软、英伟达的股票。
     

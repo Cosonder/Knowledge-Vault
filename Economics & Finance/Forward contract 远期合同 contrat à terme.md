@@ -29,7 +29,7 @@ $$F_0 = S_0\, e^{rT}$$
 
 # Forward vs. Futures
 
-| 维度 | 远期 | [[Future 期货 contrat à terme normalisé|期货]] |
+| 维度 | 远期 | [[Future 期货 contrat à terme normalisé\|期货]] |
 |---|---|---|
 | 交易场所 | 场外 | 交易所 |
 | 标准化 | 定制 | 标准化 |

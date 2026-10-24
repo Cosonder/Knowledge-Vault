@@ -2,6 +2,7 @@
 aliases:
   - investment
   - 投资
+  - investissement
 ---
 ## 投资中的进攻和防御指的是什么？
 
@@ -206,8 +207,8 @@ Trading = 赌博
 
 如果你愿意，我可以帮你进一步细分：
 
-- “ ![Attachment.tiff](file:///Attachment.tiff)普通人更适合 investing 还是 trading？”
-- 或者“ ![Attachment.tiff](file:///Attachment.tiff)如何从零开始学 investing（像学数学一样系统化）”
+- “普通人更适合 investing 还是 trading？”
+- 或者“如何从零开始学 investing（像学数学一样系统化）”
 
 
 
@@ -227,10 +228,11 @@ Trading = 赌博
 
 更形式化一点：
 
-- 资产价格：随机过程 S_t
+- 资产价格：随机过程 $S_t$
 - 决策：组合权重 w
 - 目标：  
-    \max_w \mathbb{E}[R(w)] \quad \text{s.t. risk constraint}
+
+$$\max_w \mathbb{E}[R(w)] \quad \text{s.t. risk constraint}$$
 
 这一步很重要：**投资本质是“在噪声中的优化”**
 
@@ -244,7 +246,7 @@ Trading = 赌博
 
 #### **(1) 货币时间价值**
 
-1 \text{ euro today} > 1 \text{ euro tomorrow}
+$$1\ \text{euro today} > 1\ \text{euro tomorrow}$$
 
 → 折现（discounting）
 
@@ -259,7 +261,7 @@ Trading = 赌博
 
 #### **(3) 复利是核心结构**
 
-(1+r)^n
+$$(1+r)^n$$
 
 长期增长完全由指数结构决定
 
@@ -305,7 +307,7 @@ Trading = 赌博
 
 核心公式：
 
-\sigma_p^2 = w^T \Sigma w
+$$\sigma_p^2 = w^\top \Sigma w$$
 
 ---
 
@@ -345,7 +347,7 @@ $$\min \sigma_p^2 \quad \text{s.t. expected return}$$
 
 #### **(3) CAPM（资产定价模型）**
 
-R_i = R_f + \beta (R_m - R_f)
+$$E[R_i] = R_f + \beta_i (E[R_m] - R_f)$$
 
 解释：
 

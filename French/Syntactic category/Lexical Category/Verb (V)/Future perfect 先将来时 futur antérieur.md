@@ -5,13 +5,13 @@ aliases:
 ---
 # Introduction
 
-The future perfect (*le futur antérieur*) is the compound form of the [[Simple future 简单将来时 futur simple|simple future]]. It presents an action as **completed before a given point in the future** (“future in the past of the future”).
+The future perfect (*le futur antérieur*) is the compound form of the [[Simple future 简单将来时 futur simple|simple future]]. It presents an action as **completed before a given point in the future** (“past in the future”).
 
 # Formation
 
-the future perfect = the simple future of *être/avoir* + the [[Past participle 过去分词 Participe passé|past participle]]
+the future perfect = the simple future of *être/avoir* + the [[Past participle 过去分词 participe passé|past participle]]
 
-Auxiliary choice and [[Agreement 配合 accord|agreement]] are the same as for the [[Perfect 复合过去时 Passé composé|passé composé]]; [[Pronominal verb 代动词 verbe pronominal|pronominal verbs]] take *être*.
+Auxiliary choice and [[Agreement 配合 accord|agreement]] are the same as for the [[Perfect 复合过去时 passé composé|passé composé]]; [[Pronominal verb 代动词 verbe pronominal|pronominal verbs]] take *être*.
 
 |              | finir (avoir)      | partir (être)                    | se lever (être)                 |
 | ------------ | ------------------ | -------------------------------- | ------------------------------- |

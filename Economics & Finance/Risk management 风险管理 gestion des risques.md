@@ -34,7 +34,7 @@ aliases:
 
 # Related
 
-- [[Financial management 财务管理|财务管理]]
-- [[Leverage 杠杆|杠杆]]
+- [[Financial management 财务管理 gestion financière|财务管理]]
+- [[Leverage 杠杆 effet de levier|杠杆]]
 - [[Personal finance 个人理财 finances personnelles|个人理财]]
-- [[Investment strategy 投资策略|投资策略]]
+- [[Investment strategy 投资策略 stratégie d'investissement|投资策略]]

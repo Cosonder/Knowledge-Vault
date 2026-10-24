@@ -204,7 +204,7 @@ No inversion, no *est-ce que*; *qu'est-ce qui / qu'est-ce que* become *ce qui / 
 
 # Remarks
 
-1. With inversion, the [[Past participle 过去分词 Participe passé|past participle]] agrees with a preceding COD *quel* + noun or *lequel*: *Quelle robe as-tu achet**ée** ?* (see [[Perfect 复合过去时 Passé composé|passé composé]]).
+1. With inversion, the [[Past participle 过去分词 participe passé|past participle]] agrees with a preceding COD *quel* + noun or *lequel*: *Quelle robe as-tu achet**ée** ?* (see [[Perfect 复合过去时 passé composé|passé composé]]).
 2. Object clitics stay before the verb in inversion: ***Le** connais-tu ?*
 
 # Related

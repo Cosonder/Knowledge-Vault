@@ -1,6 +1,7 @@
 ---
 aliases:
   - swap
+  - "contrat d'échange"
 ---
 # Definition
 **互换 / 交换交易**（swap，法 swap / contrat d'échange）是交易双方约定在未来一段时间内，按预先确定的规则定期交换一系列现金流的[[Derivative 金融衍生品 produit dérivé|金融衍生品]]合约。互换可视为一系列[[Forward contract 远期合同 contrat à terme|远期合约]]的组合，绝大多数在场外市场（OTC，over-the-counter）交易，按 ISDA 主协议签订。
@@ -26,7 +27,7 @@ A 的净融资成本 = 贷款浮动利率 − 收到的 SOFR + 支付的 3%，�
 # Uses
 - [[Hedge 对冲 couverture|对冲]]利率风险、汇率风险、信用风险
 - 改变资产负债的现金流结构（资产负债管理 ALM）
-- [[Speculation 投机]]：表达对利率走势的观点
+- [[Speculation 投机 spéculation]]：表达对利率走势的观点
 - 风险：交易对手风险（counterparty risk），危机后多数标准化互换须通过中央对手方（CCP）集中清算。
 
 # Related

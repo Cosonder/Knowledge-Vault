@@ -30,7 +30,7 @@ Inflectional forms are partly driven by [[Agreement 配合 accord|agreement]]: t
 
 * **Suffixation** (most common): *fin-**ir*** → *fin-**issons***
 * **Stem alternation**（词干交替）: *je **veu**x / nous **voul**ons*, *je **vais** / nous **all**ons / j'**ir**ai* (suppletion 异干互补)
-* **Auxiliary + participle** (periphrastic): *j'**ai mangé***, *je **suis venu*** — see [[Perfect 复合过去时 Passé composé|passé composé]]
+* **Auxiliary + participle** (periphrastic): *j'**ai mangé***, *je **suis venu*** — see [[Perfect 复合过去时 passé composé|passé composé]]
 
 # Spoken vs written French
 
@@ -38,7 +38,7 @@ Much French inflection is visible only in writing:
 > il parle / ils parlent → both /paʁl/
 > joli / jolie / jolis / jolies → all /ʒɔli/
 
-Spoken French often marks number on the determiner (*le* /lə/ vs *les* /le/) or through [[Liaison 联诵 liaison|liaison]] (*ils‿ont* /ilzɔ̃/ vs *ils sont* /ilsɔ̃/).
+Spoken French often marks number on the determiner (*le* /lə/ vs *les* /le/) or through [[Liaison 联诵 liaison|liaison]] (*il aime* /ilɛm/ vs *ils‿aiment* /ilzɛm/).
 
 # Contrast
 

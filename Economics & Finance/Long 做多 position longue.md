@@ -15,7 +15,7 @@ aliases:
 
 - **现货做多**：直接买入 [[Stock 股票 action|股票]]、债券、[[Commodity 商品 matière première|商品]]等。收益 = 卖出价 − 买入价 + 期间收入（股息、利息）。
 - **衍生品做多**：买入[[Future 期货 contrat à terme normalisé|期货]]或[[Forward contract 远期合同 contrat à terme|远期合同]]（约定未来买入），或买入看涨期权（call option）。
-- **杠杆做多**：借钱买入（融资买入、保证金交易），放大收益与亏损，见 [[Leverage 杠杆|杠杆]]。
+- **杠杆做多**：借钱买入（融资买入、保证金交易），放大收益与亏损，见 [[Leverage 杠杆 effet de levier|杠杆]]。
 
 风险收益特征（无杠杆的现货多头）：
 
@@ -35,8 +35,8 @@ aliases:
 
 # Related
 
-- [[Investment 投资|投资]]
-- [[Speculation 投机|投机]]
+- [[Investment 投资 investissement|投资]]
+- [[Speculation 投机 spéculation|投机]]
 - [[Hedge 对冲 couverture|对冲]]
 - [[Hedge fund 对冲基金 gestion alternative|对冲基金]]（多空策略 long/short）
 - [[Short selling 做空 vente à découvert|做空]]

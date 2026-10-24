@@ -9,15 +9,15 @@ Tense（时态, *le temps*）locates the process expressed by the verb on the ti
 
 # Overview
 
-Every simple tense has a compound counterpart = auxiliary (*avoir/être*) **in that simple tense** + [[Past participle 过去分词 Participe passé|past participle]]. The compound form expresses anteriority / completion relative to the simple one.
+Every simple tense has a compound counterpart = auxiliary (*avoir/être*) **in that simple tense** + [[Past participle 过去分词 participe passé|past participle]]. The compound form expresses anteriority / completion relative to the simple one.
 
 | Tense                                           | Compound form                                     |
 | ----------------------------------------------- | ------------------------------------------------- |
-| [[Present indicative 直陈式现在时 indicatif présent]] | [[Perfect 复合过去时 Passé composé]]                   |
-| [[Imperfect 未完成过去时 Imparfait]]                  | [[Pluperfect 愈过去时 plus-que-parfait]]              |
+| [[Present indicative 直陈式现在时 indicatif présent]] | [[Perfect 复合过去时 passé composé]]                   |
+| [[Imperfect 未完成过去时 imparfait]]                  | [[Pluperfect 愈过去时 plus-que-parfait]]              |
 | [[Past historic 简单过去时 passé simple]]            | [[Past anterior 先过去时 passé antérieur]]            |
-| [[Perfect 复合过去时 Passé composé]]                 | [[Double compound past 超复合过去时 passé surcomposé|Double compound 超复合过去时 past passé surcomposé]] |
-| [[Simple future 简单将来时 futur simple|Simple future  简单将来时 futur simple]]           | [[Future perfect 先将来时 futur antérieur]]           |
+| [[Perfect 复合过去时 passé composé]]                 | [[Double compound past 超复合过去时 passé surcomposé]] |
+| [[Simple future 简单将来时 futur simple]]           | [[Future perfect 先将来时 futur antérieur]]           |
 
 Note: the passé surcomposé is the compound of a compound: auxiliary in the passé composé + past participle (*j'ai eu fini*).
 
@@ -46,9 +46,9 @@ Formation details: [[Conjugation 变位 conjugaison|conjugation]].
 
 ## Past
 
-- [[Perfect 复合过去时 Passé composé|passé composé]]: completed past event, the normal past in speech.
+- [[Perfect 复合过去时 passé composé|passé composé]]: completed past event, the normal past in speech.
 > Hier, j'**ai vu** Paul.
-- [[Imperfect 未完成过去时 Imparfait|imparfait]]: description, background, ongoing action, habit in the past.
+- [[Imperfect 未完成过去时 imparfait|imparfait]]: description, background, ongoing action, habit in the past.
 > Il **faisait** beau. Je **lisais** quand il **est arrivé**.
 - [[Past historic 简单过去时 passé simple|passé simple]]: completed event in literary narrative; replaced by passé composé in speech.
 > Il **entra** et **s'assit**.
@@ -108,4 +108,4 @@ In reported speech with a main verb in the past, the subordinate tense shifts:
 
 - [[Mood 语气 mode|mood]], [[Aspect 体 aspect|aspect]], [[Voice 语态 voix|voice]]
 - [[Conjugation 变位 conjugaison|conjugation]]
-- [[Past participle 过去分词 Participe passé|past participle]]
+- [[Past participle 过去分词 participe passé|past participle]]

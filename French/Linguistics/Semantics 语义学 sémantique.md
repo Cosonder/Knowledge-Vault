@@ -30,8 +30,8 @@ aliases:
 # French examples
 
 Grammatical meaning is also part of semantics — for example, aspectual differences between tenses:
-> Il **lisait** quand je suis arrivé. (ongoing — [[Imperfect 未完成过去时 Imparfait|imparfait]])
-> Il **a lu** le livre. (completed — [[Perfect 复合过去时 Passé composé|passé composé]])
+> Il **lisait** quand je suis arrivé. (ongoing — [[Imperfect 未完成过去时 imparfait|imparfait]])
+> Il **a lu** le livre. (completed — [[Perfect 复合过去时 passé composé|passé composé]])
 
 Adjective position can change meaning:
 > un **grand** homme 伟人 / un homme **grand** 高个子的人

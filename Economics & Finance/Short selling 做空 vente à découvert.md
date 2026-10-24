@@ -70,11 +70,11 @@ $$S_t^* = \frac{(1 + m_0) S_0}{1 + m}.$$
 # Related
 
 - [[Long 做多 position longue|做多]]
-- [[Leverage 杠杆|杠杆]]
+- [[Leverage 杠杆 effet de levier|杠杆]]
 - [[Option 期权 option|期权]]
 - [[Hedge 对冲 couverture|对冲]]
 - [[Hedge fund 对冲基金 gestion alternative|对冲基金]]
-- [[Speculation 投机|投机]]
+- [[Speculation 投机 spéculation|投机]]
 - [[Financial risks 金融风险 risques financiers|金融风险]]
 
 # Self-check 自测

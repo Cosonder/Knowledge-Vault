@@ -12,7 +12,7 @@ A subordinate conjunction (*conjonction de subordination*) introduces a **subord
 
 Simple conjunctions: *que, quand, comme, si, lorsque, puisque, quoique*. Most others are compound *locutions conjonctives* built on *que*: *parce que, bien que, pour que, avant que…*
 
-*que, lorsque, puisque, quoique* elide before *il(s), elle(s), on, un(e)*: *qu'il, lorsqu'elle* (see [[Elision 省音 élision|elision]]); *si* elides only before *il(s)*: *s'il*.
+*que* elides before any vowel; *lorsque, puisque, quoique* traditionally only before *il(s), elle(s), on, un(e)*: *qu'il, lorsqu'elle* (see [[Elision 省音 élision|elision]]); *si* elides only before *il(s)*: *s'il*.
 
 # Indicative or subjunctive?
 
@@ -49,7 +49,7 @@ Rmk.
 
 ## si
 
-- Condition: never followed by the future or conditional: *Si j'**avais** le temps, je **viendrais**.* (see [[Imperfect 未完成过去时 Imparfait|imperfect]])
+- Condition: never followed by the future or conditional: *Si j'**avais** le temps, je **viendrais**.* (see [[Imperfect 未完成过去时 imparfait|imperfect]])
 - Indirect question (*whether*): any tense is possible: *Je me demande **s'**il **viendra**.*
 
 ## que replacing another conjunction
@@ -61,7 +61,7 @@ To avoid repeating a conjunction in two coordinated clauses, French uses *que*:
 
 ## Conjunction vs preposition + infinitive
 
-When the subjects are the same, French prefers a preposition + [[Infinitive 不定式 Infinitif|infinitive]]:
+When the subjects are the same, French prefers a preposition + [[Infinitive 不定式 infinitif|infinitive]]:
 
 | different subjects             | same subject                   |
 | ------------------------------ | ------------------------------ |

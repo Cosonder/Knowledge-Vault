@@ -16,7 +16,7 @@ tags: [finance, learning]
 
 **投资费用**（investment fees, *frais*）是投资者为购买、持有和卖出金融产品向中介支付的全部成本。主要类型：
 
-- **管理费 / 总费用率**（management fee, TER = total expense ratio, *frais de gestion*, *frais courants*）：按资产规模每年收取的比例，从[[Fund 基金|基金]]净值中直接扣除，投资者不会收到账单；
+- **管理费 / 总费用率**（management fee, TER = total expense ratio, *frais de gestion*, *frais courants*）：按资产规模每年收取的比例，从[[Fund 基金 fonds|基金]]净值中直接扣除，投资者不会收到账单；
 - **申购费 / 入场费**（entry fee, *frais d'entrée* / *droits d'entrée*）：买入时一次性扣除，赎回时还可能有 *frais de sortie*；
 - **交易佣金**（brokerage commission, *frais de courtage*）：每笔买卖支付给券商；
 - **账户费**（*droits de garde*, *frais de tenue de compte*）：托管或账户维护费用；
@@ -33,7 +33,7 @@ tags: [finance, learning]
 
 $$\frac{(1+r-f)^T}{(1+r)^T} = \left(1 - \frac{f}{1+r}\right)^T \approx e^{-fT/(1+r)}$$
 
-费用损失 $1 - (1-\tfrac{f}{1+r})^T$ 随 $T$ 指数增长；对小 $f$，损失约为 $fT$ 的量级，而不是 $f$。一次性入场费 $e$ 则只是乘以常数 $(1-e)$，不随时间复合，因此长期而言经常性费用远比一次性费用重要。
+费用损失 $1 - (1-\tfrac{f}{1+r})^T$ 随 $T$ 增长并趋近 1（剩余财富比例随 $T$ 指数衰减）；对小 $f$，损失约为 $fT$ 的量级，而不是 $f$。一次性入场费 $e$ 则只是乘以常数 $(1-e)$，不随时间复合，因此长期而言经常性费用远比一次性费用重要。
 
 # Example
 

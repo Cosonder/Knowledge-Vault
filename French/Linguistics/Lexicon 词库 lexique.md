@@ -22,7 +22,7 @@ Information that is unpredictable must be stored in the lexicon:
 * gender of nouns: *le* livre / *la* livre (different words!) — see [[Gender of nouns 名词的性 genre des noms|Gender of nouns]]
 * irregular forms: *œil* → *yeux*; *aller* → *j'irai*
 * *h aspiré* vs *h muet*: *le héros* vs *l'héroïne* — see [[Elision 省音 élision|elision]]
-* auxiliary choice: *Il **est** venu* vs *Il **a** mangé* — see [[Perfect 复合过去时 Passé composé|passé composé]]
+* auxiliary choice: *Il **est** venu* vs *Il **a** mangé* — see [[Perfect 复合过去时 passé composé|passé composé]]
 * idioms: *poser un lapin* 放鸽子 — see [[Phraseology 熟语学 phraséologie|phraseology]]
 
 # Structure of the French lexicon

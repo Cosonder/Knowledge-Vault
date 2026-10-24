@@ -19,7 +19,7 @@ aliases:
 | 平仓 | 可随时对冲平仓，多数不进行实物交割 | 通常持有至到期 |
 
 # Mechanism
-- **保证金制度**（margin，法 dépôt de garantie）：交易者只需缴纳合约价值一定比例（通常 5%–15%）的初始保证金（initial margin），因此期货具有内在的[[Leverage 杠杆|杠杆]]。
+- **保证金制度**（margin，法 dépôt de garantie）：交易者只需缴纳合约价值一定比例（通常 5%–15%）的初始保证金（initial margin），因此期货具有内在的[[Leverage 杠杆 effet de levier|杠杆]]。
 - **每日结算 / 盯市**：每个交易日结束按结算价计算盈亏并调整保证金账户；余额低于维持保证金（maintenance margin）时，须追加保证金（margin call），否则会被强行平仓。
 - **交割**：实物交割（physical delivery）或现金交割（cash settlement，如股指期货）。
 - **持有成本模型**（cost of carry）：理论期货价格
@@ -32,7 +32,7 @@ aliases:
 
 # Uses
 - [[Hedge 对冲 couverture|套期保值]]（hedging）：生产商、消费者锁定价格。
-- [[Speculation 投机]]：利用杠杆博取价格变动收益，[[Long 做多 position longue|做多]]或做空均可。
+- [[Speculation 投机 spéculation]]：利用杠杆博取价格变动收益，[[Long 做多 position longue|做多]]或做空均可。
 - 套利（arbitrage）：利用期现价差或跨期价差。
 - 价格发现：期货价格反映市场对未来现货价格的预期。
 
@@ -43,5 +43,5 @@ aliases:
 - [[Derivative 金融衍生品 produit dérivé|Derivative 金融衍生品]]
 - [[Forward contract 远期合同 contrat à terme|Forward contract 远期合同]]
 - [[Swap 交换交易 swap|Swap 交换交易]]
-- [[Leverage 杠杆]]
-- [[Trading day 交易日]]
+- [[Leverage 杠杆 effet de levier]]
+- [[Trading day 交易日 jour de bourse]]

@@ -547,7 +547,7 @@ aliases:
 | **-eur → -or (AmE)**         | couleur       | /kulœʁ/             | n.f.                | color                          | color        |                                                     |
 | **-eur → -or (AmE)**         | faveur        | /favœʁ/             | n.f.                | favor                          | favor        |                                                     |
 | **-eur → -or (AmE)**         | honneur       | /ɔnœʁ/              | n.m.                | honor                          | honor        |                                                     |
-| **-eur → -or (AmE)**         | humour        | /ymuʁ/              | n.m.                | humor                          | humor        |                                                     |
+| **-our → -or (AmE)**         | humour        | /ymuʁ/              | n.m.                | humor                          | humor        |                                                     |
 | **-eur → -or (AmE)**         | saveur        | /savœʁ/             | n.f.                | flavor; taste                  | savor        | enjoy or appreciate; relish                         |
 | **irregular correspondence** | caractère     | /kaʁaktɛʁ/          | n.m.                | character; personality         | character    |                                                     |
 | **irregular correspondence** | chocolat      | /ʃɔkɔla/            | n.m.                | chocolate                      | chocolate    |                                                     |

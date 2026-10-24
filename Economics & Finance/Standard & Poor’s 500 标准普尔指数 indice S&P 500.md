@@ -1,13 +1,16 @@
 ---
 aliases:
   - S&P 500
+  - "indice S&P 500"
+  - 标普500
+  - "Standard & Poor's 500"
 ---
-## Name originality
+## Name origin
 
 The name **Standard & Poor's 500** (commonly abbreviated as the **S&P 500**) sounds unusual to those outside the financial world because it isn't named after a financial concept. Instead, it is a combination of the surnames of two historical figures in financial publishing, plus the number of companies included in the index.
 Here is the breakdown of how the name came to be:
-### 1. The "Poor" Part: Henry William Poor
-In 1860, a man named **Henry William Poor** published a book called *History of Railroads and Canals in the United States*.
+### 1. The "Poor" Part: Henry Varnum Poor
+In 1860, a man named **Henry Varnum Poor** published a book called *History of Railroads and Canals in the United States*.
  * At the time, the railway industry was the "tech boom" of the 19th century, but information about these companies was sparse and unreliable.
  * Poor’s book provided investors with much-needed, unbiased financial and operational data about railway companies.
  * He later co-founded **H.V. and H.W. Poor Co.** with his son, continuing to publish authoritative investment guides.

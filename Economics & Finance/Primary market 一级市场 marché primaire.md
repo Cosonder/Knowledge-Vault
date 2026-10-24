@@ -27,7 +27,7 @@ aliases:
 # Related
 
 - [[Securities market 证券市场 marché des valeurs mobilières|证券市场]]
-- [[Stock market 股票市场|股票市场]]
+- [[Stock market 股票市场 marché boursier|股票市场]]
 - [[Stock 股票 action|股票]]
 - [[Financial capital 资本 capital financier|资本]]
-- [[Investor 投资者|投资者]]
+- [[Investor 投资者 investisseur|投资者]]

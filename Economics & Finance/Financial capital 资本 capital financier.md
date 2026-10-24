@@ -16,7 +16,7 @@ Financial capital (also simply known as capital or equity in [[Finance 金融 fi
 - **权益资本**（equity capital, *capitaux propres*）：股东投入的资金及留存收益，无需偿还，股东享有剩余索取权，通过发行[[Stock 股票 action|股票]]获得。
 - **债务资本**（debt capital, *capitaux empruntés*）：通过借款、发行债券获得，需按期还本付息。
 
-两者的比例称为**资本结构**（capital structure）。债务比例越高，[[Leverage 杠杆|财务杠杆]]越大。
+两者的比例称为**资本结构**（capital structure）。债务比例越高，[[Leverage 杠杆 effet de levier|财务杠杆]]越大。
 
 会计恒等式：
 
@@ -37,6 +37,6 @@ $$\text{WACC} = \frac{E}{V}r_E + \frac{D}{V}r_D(1-T)$$
 # Related
 
 - [[Asset 资产 actif|资产]]
-- [[Financial management 财务管理|财务管理]]
+- [[Financial management 财务管理 gestion financière|财务管理]]
 - [[Primary market 一级市场 marché primaire|一级市场]]
-- [[Investment 投资|投资]]
+- [[Investment 投资 investissement|投资]]

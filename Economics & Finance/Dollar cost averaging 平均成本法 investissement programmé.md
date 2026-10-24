@@ -3,9 +3,10 @@ aliases:
   - dollar cost averaging
   - 定投
   - DCA
+  - investissement programmé
 ---
 # Definition 
-Dollar cosst averaging (DCA) is an investment strategy which aims to apply value investing principles to regular investment.
+Dollar cost averaging (DCA) is an investment strategy which aims to apply value investing principles to regular investment.
 
 
 # Gemini Q&A
@@ -53,7 +54,7 @@ Dollar cosst averaging (DCA) is an investment strategy which aims to apply value
 > 
 > 面对这种极低限额，清醒的做法有两种：
 > 
-> 1. **顺应规则：** 就用这 100 元的低额度慢慢挂着。因为每天 100 元，一个月也有 3000 元左右的额度。这本身就是一种被动拉长“微笑曲线”、强迫自己在高位不孤注一掷的极佳保护。
+> 1. **顺应规则：** 就用这 100 元的低额度慢慢挂着。因为每天 100 元，一个月（约 21 个交易日）也有 2000 元左右的额度。这本身就是一种被动拉长“微笑曲线”、强迫自己在高位不孤注一掷的极佳保护。
 >     
 > 2. **寻找替代：** 如果你嫌额度太小，可以去寻找市场上其他**暂时还没被限额、但追踪同样指数（比如同样是纳斯达克100）的“平替”ETF**。因为不同基金公司的 QDII 额度充裕度是不同的。
 >     

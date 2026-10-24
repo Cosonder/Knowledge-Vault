@@ -18,7 +18,7 @@ aliases:
 |---|---|---|
 | 募集方式 | 私募，门槛高 | 公募，面向大众 |
 | 监管 | 较宽松，信息披露少 | 严格 |
-| 投资工具 | 可卖空、用[[Leverage 杠杆\|杠杆]]、[[Derivative 金融衍生品 produit dérivé|衍生品]] | 多数受限 |
+| 投资工具 | 可卖空、用[[Leverage 杠杆 effet de levier\|杠杆]]、[[Derivative 金融衍生品 produit dérivé\|衍生品]] | 多数受限 |
 | 收益目标 | 绝对收益，不论涨跌 | 相对收益，跑赢基准指数 |
 | 流动性 | 有锁定期（lock-up），赎回受限 | 通常每日申赎 |
 | 费用 | 常见 "2 and 20"：2% 管理费 + 20% 业绩报酬 | 管理费较低 |
@@ -39,7 +39,7 @@ aliases:
 
 # Related
 
-- [[Fund 基金|基金]]
-- [[Investment strategy 投资策略|投资策略]]
-- [[Speculation 投机|投机]]
+- [[Fund 基金 fonds|基金]]
+- [[Investment strategy 投资策略 stratégie d'investissement|投资策略]]
+- [[Speculation 投机 spéculation|投机]]
 - [[Risk management 风险管理 gestion des risques|风险管理]]

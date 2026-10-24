@@ -93,7 +93,7 @@ aliases:
 
 ### 1. 牛肉的部位
 
-先说明一个很重要的问题：**法国的牛肉分割体系和英美 butcher cuts 并不是一一对应的**。例如 _bavette_、_rumsteck_、_faux-filet_ 的边界与美国的 flank、rump、sirloin/strip loin 并不完全相同。因此 English 栏下面表示的是最接近的对应，而不是严格的解剖学等同。法国官方肉类资料本身会把牛肉分成三十多个主要 _morceaux_。[La Viande](https://www.la-viande.fr/cuisine-achat/cuisiner-viande/cuisiner-boeuf/morceaux-boeuf?utm_source=chatgpt.com)
+先说明一个很重要的问题：**法国的牛肉分割体系和英美 butcher cuts 并不是一一对应的**。例如 _bavette_、_rumsteck_、_faux-filet_ 的边界与美国的 flank、rump、sirloin/strip loin 并不完全相同。因此 English 栏下面表示的是最接近的对应，而不是严格的解剖学等同。法国官方肉类资料本身会把牛肉分成三十多个主要 _morceaux_。[La Viande](https://www.la-viande.fr/cuisine-achat/cuisiner-viande/cuisiner-boeuf/morceaux-boeuf)
 
 #### 1. 牛肉总称与基础词汇
 
@@ -113,7 +113,7 @@ aliases:
 
 #### 2. 牛背部：最常见的牛排部位
 
-这一带大体上是你在法国餐厅点 **steak** 时最值得认识的区域。法国官方资料指出，动物后部通常聚集较天然柔嫩、适合 **griller / poêler / rôtir** 的部位。[La Viande](https://www.la-viande.fr/sites/default/files/documentheque/connaitre_choisir_cuisiner_la_viande_de_boeuf_recettes.pdf?utm_source=chatgpt.com)
+这一带大体上是你在法国餐厅点 **steak** 时最值得认识的区域。法国官方资料指出，动物后部通常聚集较天然柔嫩、适合 **griller / poêler / rôtir** 的部位。[La Viande](https://www.la-viande.fr/sites/default/files/documentheque/connaitre_choisir_cuisiner_la_viande_de_boeuf_recettes.pdf)
 
 |Français|IPA|English meaning|中文|Notes|
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ Rmk.  三个尤其容易混淆的词
 
 #### 3. Bavette、onglet、hampe：法国很值得认识的一组
 
-法国把其中不少称作 **morceaux du boucher**——“屠夫珍藏的部位”。传统说法是这些部位数量少、味道好，屠夫过去会留给自己或熟客。官方资料把 _poire, merlan, araignée, onglet, hampe_ 等列入这一类。[La Viande](https://www.la-viande.fr/rubriques/morceaux-boeuf?utm_source=chatgpt.com)
+法国把其中不少称作 **morceaux du boucher**——“屠夫珍藏的部位”。传统说法是这些部位数量少、味道好，屠夫过去会留给自己或熟客。官方资料把 _poire, merlan, araignée, onglet, hampe_ 等列入这一类。[La Viande](https://www.la-viande.fr/rubriques/morceaux-boeuf)
 
 |Français|IPA|English meaning|中文|Notes|
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ Rmk.  三个尤其容易混淆的词
 |l’araignée|/la.ʁɛ.ɲe/|spider steak|蜘蛛肉|Small, rare butcher's cut with fine marbling and strong flavor.|
 |la fausse araignée|/la fos a.ʁɛ.ɲe/|false spider steak|“假蜘蛛肉”|Related small butcher's cut, prized for flavor.|
 
-官方对 _onglet_ 的描述尤其典型：肉味浓、柔嫩，而 _hampe_ 稍硬但非常有味道；_bavette d’aloyau_ 则以长而疏松的肌纤维、juiciness 和风味著称。[La Viande](https://www.la-viande.fr/sites/default/files/article/telechargements/fichiers/le_boeuf_il_y_a_tant_de_morceaux_a_son_repertoire_.pdf?utm_source=chatgpt.com)
+官方对 _onglet_ 的描述尤其典型：肉味浓、柔嫩，而 _hampe_ 稍硬但非常有味道；_bavette d’aloyau_ 则以长而疏松的肌纤维、juiciness 和风味著称。[La Viande](https://www.la-viande.fr/sites/default/files/article/telechargements/fichiers/le_boeuf_il_y_a_tant_de_morceaux_a_son_repertoire_.pdf)
 
 ---
 
@@ -174,7 +174,7 @@ Rmk.  三个尤其容易混淆的词
 
 > **poire + merlan**
 
-很值得记。官方资料直接把它们推荐为兼顾 **tendreté et goût**（柔嫩与风味）的部位。[La Viande](https://www.la-viande.fr/cuisine-achat/cuisiner-viande/cuisiner-boeuf/morceaux-boeuf?utm_source=chatgpt.com)
+很值得记。官方资料直接把它们推荐为兼顾 **tendreté et goût**（柔嫩与风味）的部位。[La Viande](https://www.la-viande.fr/cuisine-achat/cuisiner-viande/cuisiner-boeuf/morceaux-boeuf)
 
 ---
 
@@ -212,7 +212,7 @@ Rmk.  三个尤其容易混淆的词
 |le tendron|/lə tɑ̃.dʁɔ̃/|breast/rib cartilage cut|牛胸肋软骨肉|Marbled cut containing cartilage; good braised and sometimes thin-sliced for grilling.|
 |le flanchet|/lə flɑ̃.ʃɛ/|flank / plate region|牛腹肉|Thin abdominal cut commonly used in pot-au-feu and slow cooking.|
 
-法国官方资料把 _flanchet, tendron, milieu de poitrine, gros bout de poitrine_ 都归入腹侧、胸部附近的 **morceaux à pot-au-feu**。[La Viande](https://www.la-viande.fr/rubriques/morceaux-boeuf?utm_source=chatgpt.com)
+法国官方资料把 _flanchet, tendron, milieu de poitrine, gros bout de poitrine_ 都归入腹侧、胸部附近的 **morceaux à pot-au-feu**。[La Viande](https://www.la-viande.fr/rubriques/morceaux-boeuf)
 
 ---
 
@@ -278,7 +278,7 @@ Rmk. 这里最值得记的一个词是 **jarret**
 
 **jarret, plat-de-côtes, flanchet, macreuse, jumeau, poitrine, queue**
 
-这和肉的结构有关：富含 collagen 的部位需要较长烹饪时间，让胶原逐渐转化为 gelatin，因此最后反而会非常 **moelleux**。法国官方指南也基本按“后部嫩肉快速烹饪、前部富胶原肉慢煮”来概括。[La Viande](https://www.la-viande.fr/sites/default/files/documentheque/connaitre_choisir_cuisiner_la_viande_de_boeuf_recettes.pdf?utm_source=chatgpt.com)
+这和肉的结构有关：富含 collagen 的部位需要较长烹饪时间，让胶原逐渐转化为 gelatin，因此最后反而会非常 **moelleux**。法国官方指南也基本按“后部嫩肉快速烹饪、前部富胶原肉慢煮”来概括。[La Viande](https://www.la-viande.fr/sites/default/files/documentheque/connaitre_choisir_cuisiner_la_viande_de_boeuf_recettes.pdf)
 
 ---
 
@@ -365,7 +365,7 @@ Rmk. 这里最值得记的一个词是 **jarret**
 
 ---
 
-### 6. 如果是在法国超市，我建议优先认识这 20 个
+### 6. 优先认识的 20 个
 
 牛肉：
 
@@ -410,7 +410,7 @@ Rmk. 这里最值得记的一个词是 **jarret**
 |羊腿|**gigot d’agneau**|
 |羊排|**côtelettes / carré d’agneau**|
 
-最后一个语言上的规律也很好用：看到 **désossé** /de.zɔ.se/ 就是 **boneless，去骨的**；**avec os** /a.vɛk os/ 是**带骨**；**avec peau** 是**带皮**；**sans peau** 是**去皮**。这几个词在法国肉类包装上非常高频。
+最后一个语言上的规律也很好用：看到 **désossé** /de.zɔ.se/ 就是 **boneless，去骨的**；**avec os** /a.vɛk ɔs/ 是**带骨**；**avec peau** 是**带皮**；**sans peau** 是**去皮**。这几个词在法国肉类包装上非常高频。
 ## 5. 奶制品和鸡蛋
 
 |Français|IPA|English meaning|中文|

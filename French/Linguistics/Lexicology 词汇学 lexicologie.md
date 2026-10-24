@@ -16,8 +16,6 @@ Its applied sister discipline is **lexicography**（词典学，lexicographie）
 
 ![[Lexeme 词位 lexème]]
 
-A **lexeme**（词位，lexème）is the abstract unit of the lexicon that groups all the inflected forms of a word: *va, allons, irai, allé* belong to the lexeme ALLER. Its citation form is the **lemma**（词目，lemme）, normally the infinitive for verbs and the masculine singular for nouns and adjectives. (In French linguistics, *lexème* sometimes means only the lexical root, as opposed to grammatical morphemes.)
-
 # Main topics
 
 1. **Word formation**（构词，formation des mots）: derivation, compounding, conversion. See [[Morphology 构词学 morphologie|morphology]].

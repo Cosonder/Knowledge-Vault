@@ -16,7 +16,7 @@ Elision avoids a [[Hiatus 元音连续 hiatus|hiatus]] at a word boundary. It is
 * personal pronoun: *je, me, te, le, la, se*.
 * demonstrative pronoun: *ce*.
 * article: *le,la*.
-* relative pronoun: *que,si*
+* relative pronoun: *que*
 * preposition: *de*.
 * negation adverb: *ne*.
 * conjunction: *que* (and its compounds *lorsque, puisque, quoique*), *si*.
@@ -45,7 +45,7 @@ Note: *que* can be a relative pronoun, a conjunction or an interrogative pronoun
 Rmk: 
 1. NO elision before *qui*. 
 > l'homme **qui** est venu (never \*qu'est venu, except in very colloquial speech)
-2. Elision of *si* on happens before *il(s)*, i.e. no elision before *elle, elles, on*
+2. Elision of *si* only happens before *il(s)*, i.e. no elision before *elle, elles, on*
 >Elle viendra **si elle** veut.
 >Elle viendra **si on** lui demande.
 3. *tu* does not elide in standard French (*tu as*), but colloquially *t'as*, *t'es* are very common.

@@ -76,7 +76,7 @@ $$\min_{\mathbf w}\ \mathbf w^\top\Sigma\mathbf w \quad \text{s.t.}\quad \mathbf
 - [[Return 收益率 rendement|收益率]]
 - [[Stock 股票 action|股票]]
 - [[Bond 债券 obligation|债券]]
-- [[Investment strategy 投资策略|投资策略]]
+- [[Investment strategy 投资策略 stratégie d'investissement|投资策略]]
 - [[Index fund 指数基金 fonds indiciel|指数基金]]
 - [[Financial independence 财务自由 indépendance financière|财务自由]]
 

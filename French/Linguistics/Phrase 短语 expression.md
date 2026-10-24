@@ -16,7 +16,7 @@ In French linguistics the technical term is ***syntagme*** (*syntagme nominal, s
 
 # Classification
 
-By the category of the head (*catégories syntagmatiques*, see `Syntactic category/Phrasal category`):
+By the category of the head (*catégories syntagmatiques*):
 
 1. **Noun phrase (NP)** 名词短语, *syntagme nominal (SN)*
 > **le petit chat noir** de ma voisine

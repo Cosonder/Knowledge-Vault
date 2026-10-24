@@ -119,7 +119,7 @@ aliases:
 |muret|/myʁɛ/|n.m.|low wall|矮墙|
 |chignon|/ʃiɲɔ̃/|n.m.|bun; chignon|发髻；盘发|
 |raide|/ʁɛd/|adj.|stiff; steep; rigid|僵硬的；陡峭的|
-|célébrer|/selebre/|v.|to celebrate; commemorate|庆祝；纪念|
+|célébrer|/selebʁe/|v.|to celebrate; commemorate|庆祝；纪念|
 |banquet|/bɑ̃kɛ/|n.m.|banquet; feast|宴会；盛宴|
 |agacement|/aɡasmɑ̃/|n.m.|annoyance; irritation|恼火；烦躁|
 |inévitable|/inevitabl/|adj.|inevitable|不可避免的|
@@ -166,7 +166,7 @@ aliases:
 |touffe|/tuf/|n.f.|tuft; clump|一簇；一绺|
 |jais|/ʒɛ/|n.m.|jet-black stone; jet black|黑玉；乌黑色|
 |distinguer|/distɛ̃ɡe/|v.|to distinguish; make out|区分；辨认出|
-|coupure|/kypyʁ/|n.f.|cut; interruption|伤口；中断；停电|
+|coupure|/kupyʁ/|n.f.|cut; interruption|伤口；中断；停电|
 |hirsute|/iʁsyt/|adj.|shaggy; unkempt|毛发蓬乱的|
 |piquant|/pikɑ̃/|adj./n.m.|sharp; prickly; pungent|刺人的；辛辣的；尖锐的|
 |râpeux|/ʁapø/|adj.|rough; raspy|粗糙的；沙哑的|
@@ -183,8 +183,8 @@ aliases:
 |bruissement|/bʁɥismɑ̃/|n.m.|rustling; soft swishing sound|沙沙声；窸窣声|
 |haie|/ɛ/|n.f.|hedge|树篱|
 |exceptionnel|/ɛksɛpsjɔnɛl/|adj.|exceptional; extraordinary|非凡的；例外的|
-|davantage|/davatɑ̃ʒ/|adv.|more; further|更多；更加|
-|rassembler|/ʁɑ̃sɑ̃ble/|v.|to gather; bring together|集合；聚集|
+|davantage|/davɑ̃taʒ/|adv.|more; further|更多；更加|
+|rassembler|/ʁasɑ̃ble/|v.|to gather; bring together|集合；聚集|
 
 固定表达按照首次出现顺序如下：
 
@@ -231,7 +231,7 @@ aliases:
 | brusquement    | /bʁyskmɑ̃/          | adv.                | suddenly; abruptly                  | 突然地；猛然地                   |
 | cadran         | /kadʁɑ̃/            | n.m.                | dial; clock face                    | 表盘；刻度盘                    |
 | capuchon       | /kapyʃɔ̃/           | n.m.                | hood; cap                           | 兜帽；盖帽                     |
-| célébrer       | /selebre/           | v.                  | to celebrate; commemorate           | 庆祝；纪念                     |
+| célébrer       | /selebʁe/           | v.                  | to celebrate; commemorate           | 庆祝；纪念                     |
 | chignon        | /ʃiɲɔ̃/             | n.m.                | bun; chignon                        | 发髻；盘发                     |
 | cligner        | /kliɲe/             | v.                  | to blink                            | 眨眼                        |
 | clôture        | /klotyʁ/            | n.f.                | fence; enclosure; closing           | 篱笆；围栏；结束                  |
@@ -244,11 +244,11 @@ aliases:
 | contempler     | /kɔ̃tɑ̃ple/         | v.                  | to contemplate; gaze at             | 凝视；注视；沉思                  |
 | contenance     | /kɔ̃tənɑ̃s/         | n.f.                | composure; capacity                 | 镇定；容量                     |
 | convaincu      | /kɔ̃vɛ̃ky/          | adj./v. part. passé | convinced                           | 确信的；被说服的                  |
-| coupure        | /kypyʁ/             | n.f.                | cut; interruption                   | 伤口；中断；停电                  |
+| coupure        | /kupyʁ/             | n.f.                | cut; interruption                   | 伤口；中断；停电                  |
 | courroucé      | /kuʁuse/            | adj.                | angry; wrathful                     | 愤怒的；恼怒的                   |
 | craindre       | /kʁɛ̃dʁ/            | v.                  | to fear; be afraid of               | 害怕；担心                     |
 | crochu         | /kʁɔʃy/             | adj.                | hooked; crooked                     | 弯曲如钩的                     |
-| davantage      | /davatɑ̃ʒ/          | adv.                | more; further                       | 更多；更加                     |
+| davantage      | /davɑ̃taʒ/          | adv.                | more; further                       | 更多；更加                     |
 | se débrouiller | /sə debʁuje/        | v. pron.            | to manage; cope                     | 想办法应付；设法解决                |
 | dégourdir      | /deɡuʁdiʁ/          | v.                  | to stretch; loosen up               | 活动并舒展（身体）                 |
 | dénicher       | /deniʃe/            | v.                  | to track down; find                 | 找到；搜寻到                    |
@@ -340,7 +340,7 @@ aliases:
 | rapace         | /ʁapas/             | n.m./adj.           | bird of prey; greedy                | 猛禽；贪婪的                    |
 | râpeux         | /ʁapø/              | adj.                | rough; raspy                        | 粗糙的；沙哑的                   |
 | rappliquer     | /ʁaplike/           | v. fam.             | to turn up; come rushing            | 赶来；突然出现                   |
-| rassembler     | /ʁɑ̃sɑ̃ble/         | v.                  | to gather; bring together           | 集合；聚集                     |
+| rassembler     | /ʁasɑ̃ble/         | v.                  | to gather; bring together           | 集合；聚集                     |
 | se raviser     | /sə ʁavize/         | v. pron.            | to change one’s mind                | 改变主意                      |
 | ravissant      | /ʁavisɑ̃/           | adj.                | delightful; charming                | 迷人的；令人愉快的                 |
 | réclamer       | /ʁeklame/           | v.                  | to demand; claim; call for          | 要求；索取；声称拥有                |

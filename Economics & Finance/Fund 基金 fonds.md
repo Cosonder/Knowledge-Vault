@@ -1,6 +1,7 @@
 ---
 aliases:
   - fund
+  - fonds
 ---
 # Is it true that in finance, a fund is just an investment fund?
 

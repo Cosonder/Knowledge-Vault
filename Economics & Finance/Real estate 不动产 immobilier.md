@@ -21,13 +21,13 @@ aliases:
 
 投资方式：
 - 直接持有物业
-- 房地产投资信托（REITs，Real Estate Investment Trust；法 SIIC / SCPI）：在交易所上市，提高流动性
+- 房地产投资信托（REITs，Real Estate Investment Trust；法 SIIC 为上市型，SCPI 为非上市型）：将不动产证券化，提高流动性
 - 房地产基金、房地产企业[[Stock 股票 action|股票]]、抵押贷款支持证券（MBS）
 
 # Characteristics
 - 低流动性（illiquidity）、交易成本高（税费、中介费）。
 - 异质性：每处物业位置、条件不同，"location, location, location"。
-- 常使用较高[[Leverage 杠杆|杠杆]]（按揭贷款 mortgage，法 prêt immobilier）。
+- 常使用较高[[Leverage 杠杆 effet de levier|杠杆]]（按揭贷款 mortgage，法 prêt immobilier）。
 - 长期具有一定抗[[Inflation 通货膨胀 inflation|通胀]]属性，但对利率敏感。
 - 风险案例：2007–2008 年美国次贷危机（subprime crisis）源于房地产抵押贷款的过度扩张。
 
@@ -37,5 +37,5 @@ aliases:
 # Related
 - [[Infrastructure 基础设施 infrastructure|Infrastructure 基础设施]]
 - [[Tangible asset 有形资产 actif corporel|Tangible asset]]
-- [[Investment 投资]]
+- [[Investment 投资 investissement]]
 - [[Personal finance 个人理财 finances personnelles|Personal finance 个人理财]]

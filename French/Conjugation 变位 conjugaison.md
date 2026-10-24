@@ -28,9 +28,9 @@ New verbs are created in the 1st group (*googler, tweeter*). The 3rd group conta
 ## Simple vs compound forms
 
 - **simple forms** (temps simples): one word, stem + ending. *je parle, je parlais, je parlerai*.
-- **compound forms** (temps composés): auxiliary *avoir/être* + [[Past participle 过去分词 Participe passé|past participle]]. *j'ai parlé, j'étais parti*.
+- **compound forms** (temps composés): auxiliary *avoir/être* + [[Past participle 过去分词 participe passé|past participle]]. *j'ai parlé, j'étais parti*.
 
-See [[Tense 时态 temps|tense]] for the full correspondence. Choice of auxiliary: see [[Perfect 复合过去时 Passé composé|passé composé]] and [[Intransitive verbs 不及物动词 verbes intransitifs|intransitive verbs]]; all [[Pronominal verb 代动词 verbe pronominal|pronominal verbs]] use *être*.
+See [[Tense 时态 temps|tense]] for the full correspondence. Choice of auxiliary: see [[Perfect 复合过去时 passé composé|passé composé]] and [[Intransitive verbs 不及物动词 verbes intransitifs|intransitive verbs]]; all [[Pronominal verb 代动词 verbe pronominal|pronominal verbs]] use *être*.
 
 # Paradigms
 
@@ -73,10 +73,10 @@ Note: *parle, parles, parlent* are pronounced the same [paʁl]. 法语书面上�
 
 | Form                    | Stem                                              | Example (*finir*, *boire*)      |
 | ----------------------- | ------------------------------------------------- | ------------------------------- |
-| [[Imperfect 未完成过去时 Imparfait\|imparfait]] | *nous* present minus *-ons* (only exception: *être* → *ét-*) | nous finiss-ons → je **finiss**ais; nous buv-ons → je **buv**ais |
-| [[Simple future 简单将来时 futur simple|futur]], conditionnel | infinitive (drop final *-e* of *-re*) | je **finir**ai; je **boir**ai |
+| [[Imperfect 未完成过去时 imparfait\|imparfait]] | *nous* present minus *-ons* (only exception: *être* → *ét-*) | nous finiss-ons → je **finiss**ais; nous buv-ons → je **buv**ais |
+| [[Simple future 简单将来时 futur simple\|futur]], conditionnel | infinitive (drop final *-e* of *-re*) | je **finir**ai; je **boir**ai |
 | subjonctif présent      | *ils* present minus *-ent* (je, tu, il, ils); *nous/vous* = imparfait forms | qu'il **finiss**e; qu'il **boiv**e, que nous **buv**ions |
-| [[Present participle 现在分词 Participe présent\|participe présent]] | *nous* present stem + *-ant* | **finiss**ant, **buv**ant |
+| [[Present participle 现在分词 participe présent\|participe présent]] | *nous* present stem + *-ant* | **finiss**ant, **buv**ant |
 | imperative              | present tu/nous/vous, no subject (*-er* verbs drop *-s*) | parle, parlons, parlez |
 
 Irregular futures to memorize: *être → ser-, avoir → aur-, aller → ir-, faire → fer-, venir → viendr-, voir → verr-, pouvoir → pourr-, vouloir → voudr-, savoir → saur-, devoir → devr-, falloir → faudr-*.
@@ -100,7 +100,7 @@ Many 3rd-group verbs have one stem for je/tu/il/ils and another for nous/vous:
 
 ## Non-finite forms
 
-Not conjugated for person: [[Infinitive 不定式 Infinitif|infinitive]], [[Present participle 现在分词 Participe présent|present participle]] / gerund (*en parlant*), [[Past participle 过去分词 Participe passé|past participle]].
+Not conjugated for person: [[Infinitive 不定式 infinitif|infinitive]], [[Present participle 现在分词 participe présent|present participle]] / gerund (*en parlant*), [[Past participle 过去分词 participe passé|past participle]].
 
 # Related
 

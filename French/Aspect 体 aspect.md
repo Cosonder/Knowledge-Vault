@@ -18,7 +18,7 @@ Expressed by verb forms.
 
 | Perfective (process seen as a whole, bounded)       | Imperfective (process seen from inside, unbounded) |
 | --------------------------------------------------- | -------------------------------------------------- |
-| [[Perfect 复合过去时 Passé composé\|passé composé]]   | [[Imperfect 未完成过去时 Imparfait\|imparfait]]       |
+| [[Perfect 复合过去时 passé composé\|passé composé]]   | [[Imperfect 未完成过去时 imparfait\|imparfait]]       |
 | [[Past historic 简单过去时 passé simple\|passé simple]] |                                                    |
 
 > Hier, il **a plu** toute la journée.
@@ -65,5 +65,5 @@ Inherent to the verb meaning:
 # Related
 
 - [[Tense 时态 temps|tense]], [[Mood 语气 mode|mood]], [[Voice 语态 voix|voice]]
-- [[Imperfect 未完成过去时 Imparfait|imparfait]], [[Perfect 复合过去时 Passé composé|passé composé]], [[Past historic 简单过去时 passé simple|passé simple]]
-- [[Infinitive 不定式 Infinitif|infinitive]]
+- [[Imperfect 未完成过去时 imparfait|imparfait]], [[Perfect 复合过去时 passé composé|passé composé]], [[Past historic 简单过去时 passé simple|passé simple]]
+- [[Infinitive 不定式 infinitif|infinitive]]

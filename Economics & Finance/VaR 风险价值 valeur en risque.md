@@ -39,4 +39,4 @@ $$2.326 \times 0.02 \times 1000 \approx 46.5 \text{ 万元}$$
 - [[Financial risks 金融风险 risques financiers|Financial risks]]
 - [[Risk management 风险管理 gestion des risques|Risk management 风险管理]]
 - [[Stress test 压力测试 test de résistance|Stress test]]
-- [[Leverage 杠杆]]
+- [[Leverage 杠杆 effet de levier]]

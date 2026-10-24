@@ -47,6 +47,8 @@ Order of clitic objects before the verb:
 
 ## Possessive pronouns
 
+Details: [[Possessive pronoun 物主代词 pronom possessif|possessive pronoun]].
+
 |              | m. s.      | f. s.       | m. p.        | f. p.         |
 | ------------ | ---------- | ----------- | ------------ | ------------- |
 | 1st pers. s. | le mien    | la mienne   | les miens    | les miennes   |
@@ -60,6 +62,8 @@ Gender/number come from the thing possessed, person from the possessor:
 > C'est ta voiture ? — Non, c'est **la sienne**. (his or hers)
 
 ## Demonstrative pronouns
+
+Details: [[Demonstrative pronoun 指示代词 pronom démonstratif|demonstrative pronoun]].
 
 |    | m.    | f.     | neuter        |
 | -- | ----- | ------ | ------------- |
@@ -76,7 +80,7 @@ See [[Relative pronoun 关系代词 pronom relatif|relative pronoun]].
 
 ## Interrogative pronouns
 
-See [[Interrogative structure 疑问结构 structure interrogative|interrogative structure]]: *qui* (person), *que/quoi* (thing), *lequel* (choice).
+Details: [[Interrogative pronoun 疑问代词 pronom interrogatif|interrogative pronoun]]. See also [[Interrogative structure 疑问结构 structure interrogative|interrogative structure]]: *qui* (person), *que/quoi* (thing), *lequel* (choice).
 > **Qui** est là ? **Que** fais-tu ? **Lequel** veux-tu ?
 
 ## Indefinite pronouns
@@ -87,11 +91,12 @@ See [[Indefinite words 泛指词 mots indéfinis|indefinite words]]: *on, quelqu
 
 1. Elision: *je, me, te, se, le, la, ce* elide before a vowel or mute h (*j'ai, l'aime*), see [[Elision 省音 élision|elision]].
 2. *le* can be a neuter pronoun replacing an adjective or a whole clause: *Tu es fatiguée ? — Oui, je **le** suis.*
-3. Pronoun antecedents determine agreement of the [[Past participle 过去分词 Participe passé|past participle]] with *avoir* when the pronoun is a preceding COD: *Je **les** ai vu**es***.
+3. Pronoun antecedents determine agreement of the [[Past participle 过去分词 participe passé|past participle]] with *avoir* when the pronoun is a preceding COD: *Je **les** ai vu**es***.
 
 # Related
 
 - [[Personal pronoun 人称代词 pronom personnel|personal pronoun]]
+- [[Demonstrative pronoun 指示代词 pronom démonstratif|demonstrative pronoun]], [[Possessive pronoun 物主代词 pronom possessif|possessive pronoun]], [[Interrogative pronoun 疑问代词 pronom interrogatif|interrogative pronoun]]
 - [[Relative pronoun 关系代词 pronom relatif|relative pronoun]]
 - [[Indefinite words 泛指词 mots indéfinis|indefinite words]]
 - [[Pronominal verb 代动词 verbe pronominal|pronominal verb]]

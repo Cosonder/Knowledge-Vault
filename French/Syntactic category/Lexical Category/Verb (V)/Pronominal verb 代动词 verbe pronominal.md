@@ -1,6 +1,7 @@
 ---
 aliases:
   - pronominal verb
+  - verbe pronominal
 ---
 # Category
 
@@ -21,8 +22,8 @@ Rmk. Some pronominal verbs are either only reflexive or only reciprocal.
 
 ### Reflexive verbs 反身意义 sens réfléchi
 The subject performs the action on him/herself, directly or indirectly.
-> *Je **me** réveille tous le matins à sept heures*
-> (*réveille qn*: *me* refers directly to *je*)
+> *Je **me** réveille tous les matins à sept heures*
+> (*réveiller qn*: *me* refers directly to *je*)
 > -> I wake up every morning at 7 o'clock.
 > 
 > *Il ne se rase jamais le dimanche.*
@@ -42,11 +43,11 @@ Those which by adding ***se*** to the verb, acquire a meaning which is linked in
 | Original verb | Meaning           | Pronominal verb    | Meaning                   |
 | ------------- | ----------------- | ------------------ | ------------------------- |
 | *attendre*    | to wait           | *s'attendre à*     | to expect                 |
-| *douter*      | to doubt          | *se doubt de*      | to suspect                |
+| *douter*      | to doubt          | *se douter de*      | to suspect                |
 | *rappeler*    | to remind         | *se rappeler*      | to remember               |
 | *servir*      | to serve          | *se servir \[de\]* | to use; to help oneself   |
 | *demander*    | to ask            | *se demander*      | to wonder, to ask oneself |
-| *taire*       | to keep sth quiet | *se taire*         | to be/remain slient       |
+| *taire*       | to keep sth quiet | *se taire*         | to be/remain silent       |
 ### 本质代动词 verbes essentiellement pronominaux
 
 Those which only exist in pronominal form.
@@ -98,7 +99,7 @@ Whether the pronominal verb is reflexive or reciprocal, *se* can be a direct or 
 The past participle agrees in gender and number with the subject in the following cases (‘*se*’ is the direct object).
 > - reflexive:
 > 	***Elle s'** est coupé**e**.*
-> 	She cur herself.
+> 	She cut herself.
 > - reciprocal:
 > 	***Ils se** sont aimé**s** pendant trois ans.*
 > 	They loved each other for three years.
@@ -118,17 +119,17 @@ The past participle agrees in gender and number with the subject in the followin
 > *Elle s’est rendue à Paris en septembre.*
 > She went to Paris in September.
 
-Note the following exceptions,depending on the meaning of the verb:
+Note the following exceptions, depending on the meaning of the verb:
 
 – *s’imaginer que* to imagine that
 
-– *se plaire(à faire qch)* to enjoy (doing sth)
+– *se plaire (à faire qch)* to enjoy (doing sth)
 
-– *se rendre compte(de qch)* to realize (sth)
+– *se rendre compte (de qch)* to realize (sth)
 
-– *se rire(de qn)* to mock (sb)
+– *se rire (de qn)* to mock (sb)
 
-With these four verbs,the past participle remains invariable.
+With these four verbs, the past participle remains invariable.
 ## Position of *se*
 
 The following cases should be examined for both simple and compound tenses and where relevant, for present participles and infinitives. Note that the pronoun *se* is always immediately before the verb (or before the auxiliary in compound tenses), except in the case of the affirmative imperative, when it is placed immediately after the verb and hyphenated. This rule only applies if there is no other personal pronoun. See also chapters 14 Imperative and 31 Personal Pronouns.

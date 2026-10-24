@@ -2,6 +2,7 @@
 aliases:
   - financial management
   - 理财
+  - gestion financière
 ---
 简称理财
 

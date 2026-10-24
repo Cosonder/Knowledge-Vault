@@ -25,7 +25,7 @@ aliases:
 # Financial markets
 金融市场是资金融通和金融[[Asset 资产 actif|资产]]交易的市场：
 - 按期限：货币市场（money market，一年以内）、资本市场（capital market）。
-- 按工具：[[Stock market 股票市场|股票市场]]、债券市场、外汇市场、[[Commodity 商品 matière première|商品]]市场、[[Derivative 金融衍生品 produit dérivé|衍生品]]市场。
+- 按工具：[[Stock market 股票市场 marché boursier|股票市场]]、债券市场、外汇市场、[[Commodity 商品 matière première|商品]]市场、[[Derivative 金融衍生品 produit dérivé|衍生品]]市场。
 - 按发行与流通：[[Primary market 一级市场 marché primaire|一级市场]]（发行）与[[Secondary market 二级市场 marché secondaire|二级市场]]（流通）。
 - 按组织形式：交易所市场（见 [[Stock exchange 证券交易所 bourse|Stock exchange 证券交易所]]）与场外市场（OTC）。
 - 按地域：国内市场、国际市场；发达市场、新兴市场（emerging market）。
@@ -37,5 +37,5 @@ aliases:
 
 # Related
 - [[Securities market 证券市场 marché des valeurs mobilières|Securities market 证券市场]]
-- [[Stock market 股票市场]]
+- [[Stock market 股票市场 marché boursier]]
 - [[Finance 金融 finance|Finance 金融]]

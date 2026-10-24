@@ -29,7 +29,7 @@ Contrast:
 
 Most intransitive verbs take *avoir*: *j'ai dormi, il a ri, elle a voyagé*.
 
-A small closed group of intransitive verbs of **movement or change of state** take *être* (see [[Perfect 复合过去时 Passé composé|passé composé]]). Mnemonic: **DR & MRS VANDERTRAMP**.
+A small closed group of intransitive verbs of **movement or change of state** take *être* (see [[Perfect 复合过去时 passé composé|passé composé]]). Mnemonic: **DR & MRS VANDERTRAMP**.
 
 | verb              | past participle | verb              | past participle |
 | ----------------- | --------------- | ----------------- | --------------- |
@@ -41,7 +41,7 @@ A small closed group of intransitive verbs of **movement or change of state** ta
 | rester            | resté           | tomber            | tombé           |
 | retourner         | retourné        | passer            | passé           |
 
-With *être*, the [[Past participle 过去分词 Participe passé|past participle]] [[Agreement 配合 accord|agrees]] with the subject:
+With *être*, the [[Past participle 过去分词 participe passé|past participle]] [[Agreement 配合 accord|agrees]] with the subject:
 
 > Elles **sont arrivées** hier.
 

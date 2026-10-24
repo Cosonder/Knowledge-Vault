@@ -44,7 +44,7 @@ $$d_{1,2} = \frac{\ln(S_0/K) + (r \pm \tfrac12\sigma^2)T}{\sigma\sqrt{T}}.$$
 
 股票现价 $S_0 = 100$ 欧元，买入 $K = 105$、一年期看涨期权，权利金 $c = 6$ 欧元。
 
-- 若 $S_T = 120$：payoff $= 15$，损益 $= 15 - 6 = 9$ 欧元，相对权利金收益 150%；而直接持股收益 20%，体现了[[Leverage 杠杆|杠杆]]效应；
+- 若 $S_T = 120$：payoff $= 15$，损益 $= 15 - 6 = 9$ 欧元，相对权利金收益 150%；而直接持股收益 20%，体现了[[Leverage 杠杆 effet de levier|杠杆]]效应；
 - 若 $S_T = 100$：payoff $= 0$，损失全部权利金 6 欧元；
 - 盈亏平衡点：$S_T = K + c = 111$ 欧元。
 
@@ -75,7 +75,7 @@ $$d_{1,2} = \frac{\ln(S_0/K) + (r \pm \tfrac12\sigma^2)T}{\sigma\sqrt{T}}.$$
 - [[Forward contract 远期合同 contrat à terme|远期合同]]
 - [[Hedge 对冲 couverture|对冲]]
 - [[Volatility 波动率 volatilité|波动率]]
-- [[Leverage 杠杆|杠杆]]
+- [[Leverage 杠杆 effet de levier|杠杆]]
 - [[Short selling 做空 vente à découvert|做空]]
 
 # Self-check 自测

@@ -5,9 +5,9 @@ aliases:
 ---
 # 综述
 
-# animated
+# animate
 
-# inanimated
+# inanimate
 
 ## 典型阳性名词
 
@@ -35,7 +35,7 @@ aliases:
 | -eine                                                                                                  | la veine                       | un tire-veine                                                                    |
 | -oine                                                                                                  |                                | un chanoine, un moine, un patrimoine, l'antimoine (m.)                           |
 | -ine                                                                                                   |                                | le magazine, le platine (platinum), un pipeline                                  |
-| -ise                                                                                                   | la brise                       | le pare-brise, un malaise                                                        |
+| -ise                                                                                                   | la brise                       | le pare-brise                                                        |
 | -èche                                                                                                  |                                |                                                                                  |
 | -èque                                                                                                  |                                | un chèque, un évêque                                                             |
 | -èse                                                                                                   |                                | un diocèse,                                                                      |
@@ -47,9 +47,9 @@ aliases:
 | -ure                                                                                                   |                                | (chemical substances) le bromure, le mercure, un chlorure; le murmure, un augure |
 | -ude                                                                                                   |                                | prélude                                                                          |
 | -ette                                                                                                  |                                | un squelette                                                                     |
-| past participal, and present participle in their feminine form and used as nouns (improper derivation) |                                |                                                                                  |
+| past participles and present participles in their feminine form and used as nouns (improper derivation) |                                |                                                                                  |
 | names of fruits and vegetables ending in 'e'                                                           |                                | un pamplemousse, un concombre                                                    |
-| names of rivers, rigions, countries, continents ending in 'e'                                          |                                | le Rhône, le Mexique, le Cambodge;                                               |
+| names of rivers, regions, countries, continents ending in 'e'                                          |                                | le Rhône, le Mexique, le Cambodge;                                               |
 | names of arts, trades, sciences, school objects                                                        |                                |                                                                                  |
-## Words which is masculine in one meaning and feminine in th e other
+## Words which are masculine in one meaning and feminine in the other
 

@@ -7,7 +7,7 @@ aliases:
 
 The past participle (*le participe passé*) is a non-finite form of the verb. It has two roles:
 
-1. **Verbal**: with an auxiliary, it builds all compound tenses ([[Perfect 复合过去时 Passé composé|passé composé]], [[Pluperfect 愈过去时 plus-que-parfait|plus-que-parfait]], [[Future perfect 先将来时 futur antérieur|futur antérieur]], …) and the passive [[Voice 语态 voix|voice]] (*être* + past participle).
+1. **Verbal**: with an auxiliary, it builds all compound tenses ([[Perfect 复合过去时 passé composé|passé composé]], [[Pluperfect 愈过去时 plus-que-parfait|plus-que-parfait]], [[Future perfect 先将来时 futur antérieur|futur antérieur]], …) and the passive [[Voice 语态 voix|voice]] (*être* + past participle).
 2. **Adjectival**: used alone, it behaves like an adjective and agrees with its noun.
 
 # Formation
@@ -60,7 +60,7 @@ Expresses anteriority or cause, often at the head of the sentence.
 
 # Agreement
 
-See [[Agreement 配合 accord|agreement]]; the detailed rules are in [[Perfect 复合过去时 Passé composé|passé composé]] and [[Pronominal verb 代动词 verbe pronominal|pronominal verb]]. Summary:
+See [[Agreement 配合 accord|agreement]]; the detailed rules are in [[Perfect 复合过去时 passé composé|passé composé]] and [[Pronominal verb 代动词 verbe pronominal|pronominal verb]]. Summary:
 
 | construction                     | agrees with                                  | example                                  |
 | -------------------------------- | -------------------------------------------- | ---------------------------------------- |
@@ -74,7 +74,7 @@ See [[Agreement 配合 accord|agreement]]; the detailed rules are in [[Perfect �
 Special cases:
 
 - *en* as COD: usually no agreement: *Des pommes, j'en ai **mangé**.*
-- p.p. + infinitive: since the 1990 reform, *laissé* and *fait* + infinitive stay invariable: *Je les ai **fait** venir.*
+- p.p. + infinitive: *fait* + infinitive has always been invariable; since the 1990 reform *laissé* + infinitive may be invariable too: *Je les ai **fait** venir.*
 - Verbs of measure (*coûter, peser, durer*) in their literal sense: no agreement: *les vingt euros que ça m'a **coûté**.*
 
 # English equivalent

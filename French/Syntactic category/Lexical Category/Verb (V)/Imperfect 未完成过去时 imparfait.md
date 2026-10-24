@@ -5,7 +5,7 @@ aliases:
 ---
 # Introduction
 
-The imperfect (*l'imparfait*) is a simple past tense of the indicative. It presents a past situation **from the inside**, without its beginning or end: background, description, state, habit, or an action in progress. 从 [[Aspect 体 aspect|aspect]] 上看，它是**未完成体**（imperfective），与 [[Perfect 复合过去时 Passé composé|passé composé]] / [[Past historic 简单过去时 passé simple|passé simple]] 的完成体相对。
+The imperfect (*l'imparfait*) is a simple past tense of the indicative. It presents a past situation **from the inside**, without its beginning or end: background, description, state, habit, or an action in progress. 从 [[Aspect 体 aspect|aspect]] 上看，它是**未完成体**（imperfective），与 [[Perfect 复合过去时 passé composé|passé composé]] / [[Past historic 简单过去时 passé simple|passé simple]] 的完成体相对。
 
 Its compound form is the [[Pluperfect 愈过去时 plus-que-parfait|pluperfect]].
 

@@ -40,7 +40,7 @@ The distinction is essential for choosing the [[Personal pronoun 人称代词 pr
 
 # COD and agreement of the past participle
 
-With *avoir*, the [[Past participle 过去分词 Participe passé|past participle]] agrees with the **COD placed before the verb**; a COI never triggers agreement (see [[Perfect 复合过去时 Passé composé|passé composé]] and [[Agreement 配合 accord|agreement]]).
+With *avoir*, the [[Past participle 过去分词 participe passé|past participle]] agrees with the **COD placed before the verb**; a COI never triggers agreement (see [[Perfect 复合过去时 passé composé|passé composé]] and [[Agreement 配合 accord|agreement]]).
 
 > Je **l'**ai vu**e**. (COD *la* = Marie)
 > Je **lui** ai parlé. (COI: no agreement)
@@ -92,3 +92,11 @@ English can passivize the indirect object (*He was given a book*); French cannot
 
 > **On lui** a donné un livre.
 > -> He was given a book.
+
+# Related
+
+- [[Subject 主语 sujet|subject]]
+- [[Predicative complement 表语 attribut|attribut]] (attribut du COD)
+- [[Adverbial 状语 complément circonstanciel|complément circonstanciel]]
+- [[Agent complement 施事补语 complément d'agent|complément d'agent]]
+- [[Personal pronoun 人称代词 pronom personnel|personal pronoun]]

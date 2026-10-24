@@ -32,4 +32,4 @@ aliases:
 
 - [[Asset 资产 actif|资产]]
 - [[Financial capital 资本 capital financier|资本]]
-- [[Investment 投资|投资]]
+- [[Investment 投资 investissement|投资]]

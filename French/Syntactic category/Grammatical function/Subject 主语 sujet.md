@@ -21,13 +21,13 @@ Test: the subject answers *qui est-ce qui ? / qu'est-ce qui ?* + verb, and can b
 | noun phrase                                  | **Le chat de ma voisine** dort.                 |
 | proper noun                                  | **Marie** chante.                               |
 | [[Personal pronoun 人称代词 pronom personnel\|personal pronoun]] (clitic) | **Il** pleut. **Nous** partons.    |
-| other [[Pronoun 代词 pronom|pronoun]]               | **Celui-ci** est cassé. **Personne** n'est venu. |
-| [[Infinitive 不定式 Infinitif\|infinitive]]    | **Fumer** tue.                                  |
+| other [[Pronoun 代词 pronom\|pronoun]]               | **Celui-ci** est cassé. **Personne** n'est venu. |
+| [[Infinitive 不定式 infinitif\|infinitive]]    | **Fumer** tue.                                  |
 | subordinate clause                           | **Qu'il soit en retard** m'étonne.              |
 
 # Agreement with the subject
 
-The verb agrees in person and number; with *être* (and passive, *être*-verbs), the [[Past participle 过去分词 Participe passé|past participle]] and attribute agree in gender and number. See [[Agreement 配合 accord|agreement]].
+The verb agrees in person and number; with *être* (and passive, *être*-verbs), the [[Past participle 过去分词 participe passé|past participle]] and attribute agree in gender and number. See [[Agreement 配合 accord|agreement]].
 
 > **Elles** sont parti**es**. **Ma sœur** est contente.
 
@@ -64,3 +64,10 @@ In such constructions, the verb agrees with *il* (3rd person singular): *Il est 
 - Both languages require an explicit subject (unlike Spanish or Italian).
 - French clitic subject pronouns cannot be stressed or separated from the verb; for emphasis, a tonic pronoun is added: ***Moi**, je* pense que…
 - French inverts the subject more freely (after adverbs, in relative clauses).
+
+# Related
+
+- [[Object 宾语 objet|object]]
+- [[Predicative complement 表语 attribut|attribut]] (attribut du sujet)
+- [[Agent complement 施事补语 complément d'agent|complément d'agent]]
+- [[Personal pronoun 人称代词 pronom personnel|personal pronoun]]

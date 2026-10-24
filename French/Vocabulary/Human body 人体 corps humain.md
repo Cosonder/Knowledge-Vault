@@ -72,7 +72,7 @@ aliases:
 | blood                    | 血液    | le sang               |
 | bone                     | 骨头    | l'os                  |
 | muscle                   | 肌肉    | le muscle             |
-| flesh                    | 肌肉    | la chair              |
+| flesh                    | 肉      | la chair              |
 | skin                     | 皮肤    | la peau               |
 | skeleton                 | 骨骼    | le squelette          |
 | skull                    | 头骨    | le crâne              |

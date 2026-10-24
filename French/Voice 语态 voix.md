@@ -25,7 +25,7 @@ The default voice. The subject performs the action, a direct object（COD, see [
 
 ## Formation
 
-passive = **être** (conjugated in the required tense and mood) + [[Past participle 过去分词 Participe passé|past participle]]
+passive = **être** (conjugated in the required tense and mood) + [[Past participle 过去分词 participe passé|past participle]]
 
 The tense is carried by *être*; the past participle always agrees in gender and number with the subject (see [[Agreement 配合 accord|agreement]]).
 
@@ -82,7 +82,8 @@ French uses the passive less often than English. Common alternatives:
 # Related
 
 - [[Pronominal verb 代动词 verbe pronominal|pronominal verb]]
-- [[Past participle 过去分词 Participe passé|past participle]]
+- [[Past participle 过去分词 participe passé|past participle]]
 - [[Intransitive verbs 不及物动词 verbes intransitifs|intransitive verbs]]
 - [[Agreement 配合 accord|agreement]]
 - [[Mood 语气 mode|mood]], [[Tense 时态 temps|tense]], [[Aspect 体 aspect|aspect]]
+- [[Agent complement 施事补语 complément d'agent|complément d'agent]]

@@ -40,9 +40,9 @@ $$t_{\text{double}} \approx \frac{72}{100\,r}$$
 
 # Related
 
-- [[Investment 投资|投资]]
+- [[Investment 投资 investissement|投资]]
 - [[Personal finance 个人理财 finances personnelles|个人理财]]
-- [[Dollar cost averaging 平均成本法 (定投)|定投]]
+- [[Dollar cost averaging 平均成本法 investissement programmé|定投]]
 - [[Forward contract 远期合同 contrat à terme|远期合同]]（远期定价使用连续复利）
 - [[Time value of money 货币时间价值 valeur temps de l'argent|货币时间价值]]
 - [[Interest rate 利率 taux d'intérêt|利率]]

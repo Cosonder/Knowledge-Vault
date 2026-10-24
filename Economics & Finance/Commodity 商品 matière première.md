@@ -33,5 +33,5 @@ aliases:
 - [[Derivative 金融衍生品 produit dérivé|Derivative 金融衍生品]]
 - [[Forward contract 远期合同 contrat à terme|Forward contract 远期合同]]
 - [[Hedge 对冲 couverture|Hedge 对冲]]：生产商和消费者用期货锁定价格。
-- [[Speculation 投机]]
+- [[Speculation 投机 spéculation]]
 - [[Tangible asset 有形资产 actif corporel|Tangible asset]]

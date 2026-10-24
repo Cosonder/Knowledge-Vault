@@ -9,7 +9,7 @@ tags: [finance, learning]
 ---
 # Definition
 
-**指数基金**（index fund, *fonds indiciel*）是以复制某一市场指数（如[[Standard & Poor’s 500 标准普尔指数|标普500]]、MSCI World、CAC 40）的成分与权重为目标的[[Fund 基金|基金]]。它不试图"跑赢市场"，而是追求与指数一致的收益，属于**被动管理**（passive management, *gestion passive*）。
+**指数基金**（index fund, *fonds indiciel*）是以复制某一市场指数（如[[Standard & Poor’s 500 标准普尔指数 indice S&P 500|标普500]]、MSCI World、CAC 40）的成分与权重为目标的[[Fund 基金 fonds|基金]]。它不试图"跑赢市场"，而是追求与指数一致的收益，属于**被动管理**（passive management, *gestion passive*）。
 
 与之相对的是**主动管理**（active management, *gestion active*）：基金经理通过选股（stock picking）和择时（market timing）试图获得超过基准的超额收益（alpha）。
 
@@ -64,7 +64,7 @@ $$\bar R_{\text{active, net}} = R_{\text{market}} - c_{\text{active}} < R_{\text
 
 - [[ETF 交易所交易基金 fonds négocié en bourse|ETF]]
 - [[Mutual fund 共同基金 fonds commun de placement|共同基金]]
-- [[Standard & Poor’s 500 标准普尔指数|标普500]]
+- [[Standard & Poor’s 500 标准普尔指数 indice S&P 500|标普500]]
 - [[Diversification 分散投资 diversification|分散投资]]
 - [[Efficient market hypothesis 有效市场假说 hypothèse des marchés efficients|有效市场假说]]
 - [[Investment fees 投资费用 frais|投资费用]]

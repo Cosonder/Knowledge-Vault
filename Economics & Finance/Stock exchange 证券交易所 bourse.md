@@ -14,21 +14,21 @@ aliases:
 - **上市管理**：制定上市标准，审核或注册发行人，监督信息披露。
 - **市场监察**：监控异常交易、内幕交易和市场操纵。
 - **结算衔接**：与中央对手方（CCP）和证券登记结算机构配合完成清算交收。
-- **发布指数与行情**：如上证综指、[[Standard & Poor’s 500 标准普尔指数|标普 500]]（由 S&P Dow Jones Indices 编制）。
+- **发布指数与行情**：如上证综指、[[Standard & Poor’s 500 标准普尔指数 indice S&P 500|标普 500]]（由 S&P Dow Jones Indices 编制）。
 
 # Trading mechanism
 - **指令驱动**（order-driven）：投资者通过经纪商提交限价单 / 市价单，交易所按"价格优先、时间优先"原则撮合，A 股采用此方式。
 - **报价驱动**（quote-driven）：做市商（market maker）报买卖价，早期 [[NASDAQ 纳斯达克]]为典型。
-- 集合竞价（call auction）与连续竞价（continuous trading），交易在[[Trading day 交易日|交易日]]的规定时段进行。
+- 集合竞价（call auction）与连续竞价（continuous trading），交易在[[Trading day 交易日 jour de bourse|交易日]]的规定时段进行。
 
 # Major exchanges
 - 美国：纽约证券交易所（NYSE）、[[NASDAQ 纳斯达克|纳斯达克]]
-- 中国内地：上海证券交易所、深圳证券交易所、北京证券交易所（交易 [[A-share A股|A 股]]、[[B-share B股|B 股]]）
+- 中国内地：上海证券交易所、深圳证券交易所、北京证券交易所（沪深交易所交易 [[A-share A股 action A|A 股]]、[[B-share B股 action B|B 股]]；北交所仅交易 A 股）
 - 中国香港：香港交易所（HKEX，交易 [[H-share H股 action H|H 股]]）
 - 欧洲：伦敦证券交易所（LSE）、泛欧交易所（Euronext，含巴黎交易所）、德意志交易所
 - 亚洲其他：东京证券交易所（JPX）
 
 # Related
-- [[Stock market 股票市场]]
+- [[Stock market 股票市场 marché boursier]]
 - [[Securities market 证券市场 marché des valeurs mobilières|Securities market 证券市场]]
 - [[Market 市场 marché|Market 市场]]

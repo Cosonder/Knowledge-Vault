@@ -1,6 +1,7 @@
 ---
 aliases:
   - motivation
+  - 动机
 summary: 发动、引导并维持目标导向行为的内部心理过程；与外部的诱因相对
 ---
 # Definition

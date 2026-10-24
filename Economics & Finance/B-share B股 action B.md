@@ -1,6 +1,7 @@
 ---
 aliases:
   - B-share
+  - action B
 ---
 **B shares** ([Chinese](https://en.wikipedia.org/wiki/Chinese_language "Chinese language"): B股, officially **Domestically Listed Foreign Investment Shares**) on the [Shanghai](https://en.wikipedia.org/wiki/Shanghai_Stock_Exchange "Shanghai Stock Exchange") and [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen_Stock_Exchange "Shenzhen Stock Exchange") [stock exchanges](https://en.wikipedia.org/wiki/Stock_exchange "Stock exchange") refers to those that are traded in [foreign currencies](https://en.wikipedia.org/wiki/Foreign_currency "Foreign currency"). Shares that are traded on the two mainland Chinese stock exchanges in [Renminbi](https://en.wikipedia.org/wiki/Renminbi "Renminbi"), the currency in [mainland China](https://en.wikipedia.org/wiki/Mainland_China "Mainland China"), are called [A shares](https://en.wikipedia.org/wiki/A_share_\(mainland_China\) "A share (mainland China)").[\[1\]](https://en.wikipedia.org/wiki/B-share_\(mainland_China\)#cite_note-1)
 

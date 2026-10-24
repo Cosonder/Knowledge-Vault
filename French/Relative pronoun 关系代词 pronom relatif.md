@@ -62,7 +62,7 @@ Antecedent can be a person or a thing.
 > Le livre **que** je lis est intéressant.
 > L'ami **qu'**il attend.
 
-A past participle with *avoir* agrees with the antecedent of *que* (preceding COD), see [[Perfect 复合过去时 Passé composé|passé composé]]:
+A past participle with *avoir* agrees with the antecedent of *que* (preceding COD), see [[Perfect 复合过去时 passé composé|passé composé]]:
 > les fleurs **que** j'ai achet**ées**
 
 ## *dont*: complement with *de*
@@ -116,4 +116,4 @@ Without a noun antecedent ("what" / "which"), *ce* serves as antecedent:
 - [[Interrogative structure 疑问结构 structure interrogative|interrogative structure]] (interrogative *qui, que, lequel*)
 - [[Subordinate conjunction 从属连词 conjonction de subordination|subordinate conjunction]] (conjunction *que* vs relative *que*)
 - [[Agreement 配合 accord|agreement]]
-- [[Past participle 过去分词 Participe passé|past participle]]
+- [[Past participle 过去分词 participe passé|past participle]]

@@ -6,7 +6,7 @@ aliases:
 ---
 # Introduction
 
-The present indicative (*le présent de l'indicatif*) is the basic tense of the indicative [[Mood 语气 mode|mood]]. It covers the moment of speaking, but also general truths, habits, and (with context) the near past and future. Its compound form is the [[Perfect 复合过去时 Passé composé|passé composé]].
+The present indicative (*le présent de l'indicatif*) is the basic tense of the indicative [[Mood 语气 mode|mood]]. It covers the moment of speaking, but also general truths, habits, and (with context) the near past and future. Its compound form is the [[Perfect 复合过去时 passé composé|passé composé]].
 
 法语只有一个现在时，没有英语那样的进行体：*je mange* = I eat / I am eating.
 
@@ -68,7 +68,7 @@ Other frequent patterns:
 > Qu'est-ce que tu **fais** ? — Je **lis**.
 > -> What are you doing? — I'm reading.
 
-Emphasis on progress: *être en train de* + [[Infinitive 不定式 Infinitif|infinitive]]: *Je **suis en train de** lire.*
+Emphasis on progress: *être en train de* + [[Infinitive 不定式 infinitif|infinitive]]: *Je **suis en train de** lire.*
 
 ## Habit and general truth
 

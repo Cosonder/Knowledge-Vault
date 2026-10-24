@@ -7,13 +7,13 @@ aliases:
 
 # Types
 ## Personal budget
-个人/家庭预算是[[Personal finance 个人理财 finances personnelles|个人理财]]的基础，核心是规划收入在消费、储蓄与[[Investment 投资|投资]]之间的分配。常见方法：
+个人/家庭预算是[[Personal finance 个人理财 finances personnelles|个人理财]]的基础，核心是规划收入在消费、储蓄与[[Investment 投资 investissement|投资]]之间的分配。常见方法：
 - **50/30/20 法则**：税后收入的 50% 用于必要支出（needs），30% 用于可选支出（wants），20% 用于储蓄与偿债（savings）。
 - **零基预算**（zero-based budgeting）：每一元收入都被分配到某个用途，收入 − 支出 − 储蓄 = 0。
-- **先储蓄后消费**（pay yourself first）：收入到账即划转固定比例储蓄，可与[[Dollar cost averaging 平均成本法 (定投)|定投]]结合。
+- **先储蓄后消费**（pay yourself first）：收入到账即划转固定比例储蓄，可与[[Dollar cost averaging 平均成本法 investissement programmé|定投]]结合。
 
 ## Corporate budget
-企业预算属于[[Financial management 财务管理|财务管理]]与管理会计的范畴：
+企业预算属于[[Financial management 财务管理 gestion financière|财务管理]]与管理会计的范畴：
 - 经营预算（operating budget）：销售、生产、费用预算。
 - 资本预算（capital budgeting）：长期投资项目评估，常用净现值（NPV）、内部收益率（IRR）等方法。
 - 现金预算（cash budget）、预计财务报表。
@@ -31,5 +31,5 @@ aliases:
 
 # Related
 - [[Personal finance 个人理财 finances personnelles|Personal finance 个人理财]]
-- [[Financial management 财务管理]]
+- [[Financial management 财务管理 gestion financière]]
 - [[Finance 金融 finance|Finance 金融]]

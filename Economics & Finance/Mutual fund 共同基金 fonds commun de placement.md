@@ -20,7 +20,7 @@ A mutual fund is an [[Investment fund 证券投资基金 fonds d'investissement|
 # Classification
 
 - 按资产：股票基金、债券基金、货币市场基金、混合基金。
-- 按管理方式：**主动管理型**与**指数型**（index fund）。1976 年 Vanguard 推出的第一只面向散户的标普 500 指数基金是指数化投资的开端，见 [[Standard & Poor’s 500 标准普尔指数|S&P 500]]。
+- 按管理方式：**主动管理型**与**指数型**（index fund）。1976 年 Vanguard 推出的第一只面向散户的标普 500 指数基金是指数化投资的开端，见 [[Standard & Poor’s 500 标准普尔指数 indice S&P 500|S&P 500]]。
 
 # Mutual fund vs. Hedge fund
 
@@ -28,14 +28,14 @@ A mutual fund is an [[Investment fund 证券投资基金 fonds d'investissement|
 
 # Example
 
-费用率的影响：投入 10 万元，年毛收益 7%，持有 30 年。费用率 0.1% 时终值约 $10\times1.069^{30} \approx 74.1$ 万元；费用率 1.5% 时约 $10\times1.055^{30} \approx 49.8$ 万元。差距来自[[Compound interest 复利 intérêts composés|复利]]。
+费用率的影响：投入 10 万元，年毛收益 7%，持有 30 年。费用率 0.1% 时终值约 $10\times1.069^{30} \approx 74.0$ 万元；费用率 1.5% 时约 $10\times1.055^{30} \approx 49.8$ 万元。差距来自[[Compound interest 复利 intérêts composés|复利]]。
 
 # Related
 
-- [[Fund 基金|基金]]
-- [[Dollar cost averaging 平均成本法 (定投)|定投]]
+- [[Fund 基金 fonds|基金]]
+- [[Dollar cost averaging 平均成本法 investissement programmé|定投]]
 - [[Personal finance 个人理财 finances personnelles|个人理财]]
-- [[Investor 投资者|投资者]]
+- [[Investor 投资者 investisseur|投资者]]
 - [[Index fund 指数基金 fonds indiciel|指数基金]]
 - [[ETF 交易所交易基金 fonds négocié en bourse|ETF]]
 - [[Investment fees 投资费用 frais|投资费用]]

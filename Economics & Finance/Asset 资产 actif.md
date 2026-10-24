@@ -19,7 +19,7 @@ $$\text{资产} = \text{负债} + \text{所有者权益}$$
   - 无形资产（intangible asset）：专利、商标、商誉（goodwill）。
 - **按性质（金融视角）**：
   - 实物资产（real asset）：[[Real estate 不动产 immobilier|不动产]]、[[Infrastructure 基础设施 infrastructure|基础设施]]、黄金等。
-  - 金融资产（financial asset）：对未来现金流的合约性索取权，如[[Stock 股票 action|股票]]、债券、[[Fund 基金|基金]]份额、[[Derivative 金融衍生品 produit dérivé|衍生品]]。一方的金融资产必然对应另一方的负债或权益。
+  - 金融资产（financial asset）：对未来现金流的合约性索取权，如[[Stock 股票 action|股票]]、债券、[[Fund 基金 fonds|基金]]份额、[[Derivative 金融衍生品 produit dérivé|衍生品]]。一方的金融资产必然对应另一方的负债或权益。
 - **资产类别**（asset class）：投资中常按风险收益特征划分为股票、固定收益、现金、商品、不动产、另类资产等，是资产配置（asset allocation）和[[Portfolio 投资组合 portefeuille|投资组合]]构建的基本单位。
 
 # Valuation
@@ -35,6 +35,6 @@ $$PV = \sum_{t=1}^{n} \frac{CF_t}{(1+r)^t}$$
 
 # Related
 - [[Financial capital 资本 capital financier|Financial capital 资本]]
-- [[Investment 投资]]
-- [[Financial management 财务管理]]
-- [[Leverage 杠杆]]：以负债扩大资产规模。
+- [[Investment 投资 investissement]]
+- [[Financial management 财务管理 gestion financière]]
+- [[Leverage 杠杆 effet de levier]]：以负债扩大资产规模。

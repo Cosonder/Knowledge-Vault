@@ -25,7 +25,7 @@ Personal finance is the financial management that an individual or a family unit
 
 - **预算与现金流**：记录收支，控制消费，见 [[Budget 预算 budget|Budget]]。常见经验法则如 50/30/20（需要 / 想要 / 储蓄）。
 - **储蓄与债务**：先还高息债务，再谈投资。
-- **投资**：根据期限和风险承受能力进行[[Investment 投资|投资]]，构建分散的[[Portfolio 投资组合 portefeuille|投资组合]]，如通过[[Mutual fund 共同基金 fonds commun de placement|指数基金]][[Dollar cost averaging 平均成本法 (定投)|定投]]。
+- **投资**：根据期限和风险承受能力进行[[Investment 投资 investissement|投资]]，构建分散的[[Portfolio 投资组合 portefeuille|投资组合]]，如通过[[Index fund 指数基金 fonds indiciel|指数基金]][[Dollar cost averaging 平均成本法 investissement programmé|定投]]。
 - **风险管理**：见 [[Risk management 风险管理 gestion des risques|风险管理]]。
 - **税务与遗产规划**。
 
@@ -35,10 +35,9 @@ Personal finance is the financial management that an individual or a family unit
 
 # Related
 
-- [[Financial management 财务管理|财务管理]]
+- [[Financial management 财务管理 gestion financière|财务管理]]
 - [[Compound interest 复利 intérêts composés|复利]]
-- [[Investment strategy 投资策略|投资策略]]
+- [[Investment strategy 投资策略 stratégie d'investissement|投资策略]]
 - [[Net worth 净资产 patrimoine|净资产]]
 - [[Savings account 储蓄账户 livret d'épargne|储蓄账户]]
 - [[Financial independence 财务自由 indépendance financière|财务自由]]
-- [[Finance learning path 金融学习路径 parcours d'apprentissage|金融学习路径]]

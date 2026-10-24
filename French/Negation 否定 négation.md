@@ -21,7 +21,7 @@ ne + verb + pas
 
 ## Compound tenses
 
-ne + auxiliary + pas + [[Past participle 过去分词 Participe passé|past participle]]
+ne + auxiliary + pas + [[Past participle 过去分词 participe passé|past participle]]
 
 > Je **n'**ai **pas** mangé.
 > Elle **n'**est **pas** venue.
@@ -120,4 +120,4 @@ A *ne* with no negative meaning, in formal style, after verbs of fear, *avant qu
 - [[Indefinite words 泛指词 mots indéfinis|indefinite words]] (*personne, rien, aucun*)
 - [[plus 更多 plus|plus]] (*ne … plus*)
 - [[Elision 省音 élision|elision]]
-- [[Infinitive 不定式 Infinitif|infinitive]]
+- [[Infinitive 不定式 infinitif|infinitive]]

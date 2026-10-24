@@ -39,5 +39,5 @@ A **bank stress test** is a type of simulation that evaluates a financial instit
 # Related
 
 - [[Financial risks 金融风险 risques financiers|Financial risks]]
-- [[Leverage 杠杆|杠杆]]
+- [[Leverage 杠杆 effet de levier|杠杆]]
 - [[Institutional investor 机构投资者 investisseur institutionnel|机构投资者]]

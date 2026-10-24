@@ -5,9 +5,9 @@ aliases:
 ---
 # Definition
 
-**Security market** is a component of the wider financial market where securities can be bought and sold between subjects of the economy, on the basis of demand and supply. Security markets encompass [[Stock market 股票市场|stock markets]], bond markets and derivatives markets where prices can be determined and participants both professional and non professional can meet.
+**Security market** is a component of the wider financial market where securities can be bought and sold between subjects of the economy, on the basis of demand and supply. Security markets encompass [[Stock market 股票市场 marché boursier|stock markets]], bond markets and derivatives markets where prices can be determined and participants both professional and non professional can meet.
 
-**证券市场**（securities market, *marché des valeurs mobilières*）是金融市场的组成部分，是股票、债券、基金份额、[[Derivative 金融衍生品 produit dérivé|衍生品]]等有价证券发行和交易的场所。它连接资金的供给者（[[Investor 投资者|投资者]]）与需求者（企业、政府），通过供求决定价格。
+**证券市场**（securities market, *marché des valeurs mobilières*）是金融市场的组成部分，是股票、债券、基金份额、[[Derivative 金融衍生品 produit dérivé|衍生品]]等有价证券发行和交易的场所。它连接资金的供给者（[[Investor 投资者 investisseur|投资者]]）与需求者（企业、政府），通过供求决定价格。
 
 # Classification
 
@@ -18,7 +18,7 @@ aliases:
 
 **按交易品种**：
 
-- **股票市场**：见 [[Stock market 股票市场|股票市场]]、[[Stock 股票 action|股票]]；
+- **股票市场**：见 [[Stock market 股票市场 marché boursier|股票市场]]、[[Stock 股票 action|股票]]；
 - **债券市场**（bond market）：国债、地方政府债、公司债等，规模通常大于股票市场；
 - **基金市场**：见 [[Investment fund 证券投资基金 fonds d'investissement|证券投资基金]]；
 - **衍生品市场**：[[Future 期货 contrat à terme normalisé|期货]]、期权、[[Swap 交换交易 swap|互换]]等。
@@ -40,5 +40,5 @@ aliases:
 
 - [[Market 市场 marché|市场]]
 - [[Listing 上市 cotation|上市]]
-- [[Trading day 交易日|交易日]]
-- [[A-share A股|A股]]
+- [[Trading day 交易日 jour de bourse|交易日]]
+- [[A-share A股 action A|A股]]

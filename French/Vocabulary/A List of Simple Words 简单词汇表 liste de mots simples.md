@@ -51,7 +51,7 @@ aliases:
 | eu  | v., part. passé, masc. sing.                           | /y/                 | had                                   | avoir       |
 | il  | pron. personnel sujet, 3e pers. masc. sing.            | /il/                | he; it                                |             |
 | je  | pron. personnel sujet, 1re pers. sing.                 | /ʒə/                | I                                     |             |
-| la  | art. déf./pron. personnel/n.f.                         | /la/                | the; her; it; musical note A          |             |
+| la  | art. déf./pron. personnel/n.m.                         | /la/                | the; her; it; musical note A          |             |
 | là  | adv.                                                   | /la/                | there; then                           |             |
 | le  | art. déf./pron. personnel                              | /lə/                | the; him; it                          |             |
 | lé  | n.m.                                                   | /le/                | strip or width of fabric or wallpaper |             |
@@ -115,7 +115,7 @@ aliases:
 |âge|n.m.|/ɑʒ/|age||
 |âgé|adj.|/ɑʒe/|old; aged||
 |agi|v., part. passé|/aʒi/|acted|agir|
-|aie|v., subj. prés., 1re/3e pers. sing.; impér.|/ɛ/|have|avoir|
+|aie|v., subj. prés., 1re pers. sing.; impér., 2e pers. sing.|/ɛ/|have|avoir|
 |ail|n.m.|/aj/|garlic||
 |air|n.m.|/ɛʁ/|air; tune; appearance||
 |ais|n.m.|/ɛ/|plank; board||
@@ -616,7 +616,7 @@ aliases:
 | t'  | te                   |
 
 
-## Words with two letter
+## Words with two letters
 
 
 | Mot  | Classe grammaticale      | English meaning |

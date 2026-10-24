@@ -75,8 +75,8 @@ $$FV = 500\times\frac{1.004^{240}-1}{0.004} \approx 500\times\frac{2.6067-1}{0.0
 - [[Bond 债券 obligation|债券]]（债券价格即现金流现值）
 - [[Inflation 通货膨胀 inflation|通货膨胀]]
 - [[Safe withdrawal rate 安全提取率 taux de retrait|安全提取率]]
-- [[Dollar cost averaging 平均成本法 (定投)|定投]]
-- [[Investment 投资|投资]]
+- [[Dollar cost averaging 平均成本法 investissement programmé|定投]]
+- [[Investment 投资 investissement|投资]]
 
 # Self-check 自测
 

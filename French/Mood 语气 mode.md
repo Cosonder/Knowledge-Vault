@@ -22,8 +22,8 @@ There are 6 moods in French
 2. 2 non-personal (or non-finite) moods:
 	1.  infinitive: the nominal form of the verb,
 	2. participle: the adjectival form of the verb:
-		1. [[Present participle 现在分词 Participe présent|present participle]] and gerund
-		2. [[Past participle 过去分词 Participe passé|past participle]]
+		1. [[Present participle 现在分词 participe présent|present participle]] and gerund
+		2. [[Past participle 过去分词 participe passé|past participle]]
 
 Personal moods vary in [[Person 人称 personne|person]] (人称语式); non-personal moods do not (非人称语式).
 
@@ -111,15 +111,15 @@ Object pronouns follow the verb in the affirmative, joined by hyphens, *me/te �
 
 # Infinitive (infinitif)
 
-The nominal form of the verb. See [[Infinitive 不定式 Infinitif|infinitive]]. Used after modal and many other verbs, after prepositions, as a noun, for instructions.
+The nominal form of the verb. See [[Infinitive 不定式 infinitif|infinitive]]. Used after modal and many other verbs, after prepositions, as a noun, for instructions.
 > Je veux **partir**. Avant de **manger**. **Ne pas fumer**.
 
 # Participle (participe)
 
 The adjectival form of the verb.
-- [[Present participle 现在分词 Participe présent|present participle]] (*parlant*, invariable) and gerund (*en parlant*, simultaneity/manner):
+- [[Present participle 现在分词 participe présent|present participle]] (*parlant*, invariable) and gerund (*en parlant*, simultaneity/manner):
 > Il travaille **en écoutant** de la musique.
-- [[Past participle 过去分词 Participe passé|past participle]] (*parlé*), used in compound tenses, the passive, and as an adjective; agrees according to [[Agreement 配合 accord|agreement]] rules.
+- [[Past participle 过去分词 participe passé|past participle]] (*parlé*), used in compound tenses, the passive, and as an adjective; agrees according to [[Agreement 配合 accord|agreement]] rules.
 
 # Remarks
 
@@ -130,5 +130,7 @@ The adjectival form of the verb.
 
 - [[Tense 时态 temps|tense]], [[Aspect 体 aspect|aspect]], [[Voice 语态 voix|voice]]
 - [[Conjugation 变位 conjugaison|conjugation]]
-- [[Infinitive 不定式 Infinitif|infinitive]], [[Present participle 现在分词 Participe présent|present participle]], [[Past participle 过去分词 Participe passé|past participle]]
+- [[Infinitive 不定式 infinitif|infinitive]], [[Present participle 现在分词 participe présent|present participle]], [[Past participle 过去分词 participe passé|past participle]]
 - [[Subordinate conjunction 从属连词 conjonction de subordination|subordinate conjunction]]
+- [[Present subjunctive 虚拟式现在时 subjonctif présent|subjonctif présent]], [[Present conditional 条件式现在时 conditionnel présent|conditionnel présent]], [[Imperative 命令式 impératif|impératif]]
+- [[Past subjunctive 虚拟式过去时 subjonctif passé|subjonctif passé]], [[Past conditional 条件式过去时 conditionnel passé|conditionnel passé]]
